@@ -18,7 +18,7 @@ import autograder.assignment
 import autograder.style
 
 THIS_DIR = os.path.abspath(os.path.dirname(os.path.realpath(__file__)))
-DATA_PATH = os.path.join(THIS_DIR, 'data.txt')
+DATA_PATH = os.path.join(THIS_DIR, 'rpunji_data.txt')
 
 class HO5(autograder.assignment.Assignment):
     def __init__(self, **kwargs):

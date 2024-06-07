@@ -1,0 +1,924 @@
+label	col_00	col_01	col_02	col_03	col_04	col_05	col_06	col_07	col_08	col_09
+2	627 m^2	1.7858	Rat	HUMAN COMPUTER INTERACTION, BIOENGINEERING	0.636	basketball	1233 mph	134	841 m/(s^2)	eriq
+3	-851 m^2	1.6718	bird	Computational Media	0.8424	tennis	35 mph	829	1537 m/(s^2)	Reilly
+3	-134 m^2	0.7243	chicken	Computer Game Design	-0.7906	tennis	-76 mph	1065	287 m/(s^2)	Reilly
+3	520 m^2	-0.405	bird	Computational Media	-1.6511	track & field	710 mph	296	403 m/(s^2)	Tony
+6	98 m^2	0.2876	fish	Robotics Engineering	2.3889	football	1021 mph	440	296 m/(s^2)	Vani
+5	-49 m^2	1.7872	ferret	Biotechnology	-1.1483	volleyball	-813 mph	1684	-32 m/(s^2)	aNDREW
+6	175 m^2	0.3289	fish	Robotics Engineering	0.3648	football	644 mph	-587	10 m/(s^2)	Vani
+8	846 m^2	1.0157	pig	Bioinformatics	-0.7007	motor sports	1104 mph	1176	-958 m/(s^2)	Chris
+2	-585 m^2	1.4045	rat	Human Computer Interaction	1.0912	basketball	451 mph	-1590	1043 m/(s^2)	Eriq
+6	220 m^2	0.7341	fish	Robotics Engineering	0.7267	volleyball	24 mph	-16	-663 m/(s^2)	VANI
+8	1103 m^2	0.285	pig	Bioinformatics	-0.7581	motor sports	576 mph	1810	-1034 m/(s^2)	Chris
+5	394 m^2	0.4779	ferret	Biotechnology	-0.4076	volleyball	-747 mph	28	-1468 m/(s^2)	Eriq
+4	0 m^2	1.0933	guinea pig	Natural Language Processing	-0.0835	badminton	29 mph	-1594	-593 m/(s^2)	Fabrice
+4	1229 m^2	1.5038	guinea pig	Natural Language Processing	2.3396	badminton	1038 mph	1394	239 m/(s^2)	Fabrice
+8	733 m^2	0.3137	pig	Bioinformatics	-0.3954	motor sports	375 mph	649	786 m/(s^2)	Chris
+4	-1308 m^2		guinea pig	Natural Language Processing	0.0771	badminton	1 mph	744	530 m/(s^2)	Fabrice
+7	-597 m^2	1.9081	cat	Games and Playable Media	0.3983	track & field	337 mph	94	1678 m/(s^2)	Chris
+4	1328 m^2	-0.3218	guinea pig	Natural Language Processing	1.211	badminton	-36 mph	1002	-302 m/(s^2)	Fabrice
+3	919 m^2	-0.3773	bird	Computational Media	-0.1059	volleyball	324 mph	1008	963 m/(s^2)	Tony
+2	1144 m^2	1.4015	rat	Human Computer Interaction	0.5284	basketball	956 mph	25	104 m/(s^2)	Inan
+1	1424 m^2	0.8036	rabbit	Computer Game Design	1.6638	baseball	1102 mph	407	732 m/(s^2)	Eriq
+7	1254 m^2	0.7636	cat	Games and Playable Media	1.3439	soccer	851 mph	1564	-199 m/(s^2)	Fabrice
+6	-84 m^2	0.4884	fish	Robotics Engineering	1.0833	RUNNING	159 mph	1241	-366 m/(s^2)	Vani
+2	1728 m^2	-0.1095	rat	Human Computer Interaction, Electrical Engineering	0.9153	basketball	657 mph	-695	2057 m/(s^2)	Eriq
+4	2190 m^2	-0.1264	dog	Natural Language Processing	3.0826	boxing	-271 mph	-1103	-1194 m/(s^2)	Fabrice
+4	1058 m^2	-1.3458	guinea pig	Natural Language Processing	0.5528	badminton	265 mph	-1136	1333 m/(s^2)	Andrew
+8	1321 m^2	-1.2054	pig	Statistics	1.5353	motor sports	1693 mph	1678	645 m/(s^2)	Chris
+8	1636 m^2	1.3513	pig	Bioinformatics	-0.5285	motor sports	-5 mph	208	-533 m/(s^2)	Chris
+1	302 m^2	-0.6659	rabbit	Computer Game Design	-0.2184	ICE HOCKEY	527 mph	136	None	Inan
+5	1563 m^2	-0.3072	ferret	Biotechnology	1.1459	NULL	-200 mph	786	-486 m/(s^2)	Andrew
+1	462 m^2	-0.3453	rabbit	Computer Game Design	1.1634	ice hockey	1263 mph	-773	1496 m/(s^2)	Inan
+3	-471 m^2	0.2515	bird	Computational Media	1.2485	tennis	1096 mph	931	-478 m/(s^2)	Tony
+5	1041 m^2	0.6926	reptile	Data Science	1.7463	volleyball	-1037 mph	-509	-1768 m/(s^2)	Andrew
+0	1120 m^2	-0.6618	hamster	Applied Mathematics	0.8921	boxing	1482 mph	469	-311 m/(s^2)	Michael
+2	-1013 m^2	1.4973	rat	Bioengineering	0.3208	basketball	616 mph	-10	2684 m/(s^2)	Eriq
+9	38 m^2	-0.091	dog	Computer Science	0.094	golf	235 mph	-1467	961 m/(s^2)	Chris
+7	212 m^2	-0.0284	cat	Games and Playable Media	0.9434	soccer	564 mph	-231	1874 m/(s^2)	Lise
+2	1014 m^2	1.5827	rat	Electrical Engineering, Bioengineering	0.453	basketball	854 mph	-647	460 m/(s^2)	Eriq
+5	207 m^2	-1.1482	reptile	Biotechnology	-1.4931	volleyball	977 mph	835	-1313 m/(s^2)	Reilly
+5	1097 m^2	0.7268	ferret	Data Science	-0.7747	volleyball	-76 mph	122	44 m/(s^2)	Andrew
+9	636 m^2	0.9472	chicken	Computer Engineering	-0.4311	golf	1124 mph	208	565 m/(s^2)	Michael
+0	312 m^2	0.5681	hamster	Applied Mathematics	0.4646	soccer	338 mph	2005	963 m/(s^2)	Sam
+1	199 m^2	0.629	rabbit	Robotics Engineering	1.2851	ice hockey	1794 mph	296	872 m/(s^2)	Inan
+6	878 m^2	-0.2595	fish	Robotics Engineering	0.021	football	1319 mph	572	1328 m/(s^2)	Vani
+5	125 m^2	1.1868	ferret	Data Science	0.1321	volleyball	533 mph	809	836 m/(s^2)	Andrew
+7	244 m^2	0.4625	cat	Games and Playable Media	-0.6234	soccer	676 mph	41	-83 m/(s^2)	Lise
+0	490 m^2	-1.3845	hamster	Applied Mathematics	1.9959	boxing	?	137	-784 m/(s^2)	Sam
+5	1570 m^2	2.5888	hamster	Data Science	-0.6644	volleyball	-168 mph	1755	-753 m/(s^2)	Andrew
+0	-8 m^2	1.2482	cat	Applied Mathematics	1.5399	boxing	1162 mph	643	69 m/(s^2)	Sam
+3	-969 m^2	1.2344	bird	Computational Media	-0.6472	tennis	N/A	24	834 m/(s^2)	Reilly
+4	488 m^2	0.5085	guinea pig	Natural Language Processing	-0.074	running	441 mph	416	733 m/(s^2)	Lise
+0	-336 m^2	-0.0596	hamster	Applied Mathematics	-0.2824	boxing	153 mph	-186	-648 m/(s^2)	Sam
+5	207 m^2	0.999	ferret	Biotechnology	1.8342	volleyball	?	-904	-347 m/(s^2)	Andrew
+4	889 m^2	1.8171	rabbit	Natural Language Processing	0.1343	badminton	784 mph	748	-508 m/(s^2)	fABRICE
+2	-39 m^2	0.656	rat	Human Computer Interaction, Electrical Engineering	1.8372	basketball	-256 mph	-1252	556 m/(s^2)	eRIQ
+6	-231 m^2	-0.9443	fish	Robotics Engineering	1.2347	running	471 mph	239	533 m/(s^2)	Vani
+9	1399 m^2	1.4991	chicken	Technology and Information Management, Computer Engineering	0.0162	golf	-680 mph	-362	-457 m/(s^2)	Michael
+7	665 m^2	0.5202	cat	Games and Playable Media	0.2885	soccer	2131 mph	778	1563 m/(s^2)	lISE
+0	462 m^2	0.5851	hamster	Applied Mathematics	1.0222	boxing	1270 mph	679	161 m/(s^2)	Sam
+5	703 m^2	-0.4987	hamster	BIOTECHNOLOGY	-0.1378	volleyball	67 mph	-603	850 m/(s^2)	Andrew
+3	857 m^2	1.5246	bird	Computational Media	0.8135	track & field	788 mph	751	1440 m/(s^2)	TONY
+1	1283 m^2	-0.4916	rabbit	Computer Game Design	1.4761	ice hockey	1529 mph	551	-892 m/(s^2)	Inan
+5	2631 m^2	0.587	ferret	Biotechnology	-0.7462	volleyball	513 mph	116	-585 m/(s^2)	Andrew
+1	974 m^2	-0.2766	rabbit	Computer Game Design	1.5967	ice hockey	1239 mph	-523	375 m/(s^2)	Inan
+4	1588 m^2	0.1847	guinea pig	Natural Language Processing	1.8428	badminton	1544 mph	-916	-764 m/(s^2)	Fabrice
+1	1385 m^2	0.0209	rabbit	Computer Game Design	-0.2791	baseball	-248 mph	-265	2044 m/(s^2)	Inan
+8	1826 m^2	0.9837	pig	Statistics	-0.0916	motor sports	645 mph	-1556	-639 m/(s^2)	Chris
+7	-272 m^2	0.3754	rabbit	Games and Playable Media	0.543	soccer	-199 mph	528	377 m/(s^2)	Lise
+8	957 m^2	0.524	pig	Statistics	-0.2916	motor sports	1390 mph	1055	-1 m/(s^2)	Chris
+2	-649 m^2	0.8207	rat	Human Computer Interaction, Bioengineering	1.4155	badminton	-238 mph	-264	269 m/(s^2)	Eriq
+5	784 m^2	0.4298	reptile	N/A	-0.4989	volleyball	-421 mph	1616	260 m/(s^2)	Andrew
+6	361 m^2	-0.7888	dog	Robotics Engineering	0.4937	track & field	1250 mph	64	-628 m/(s^2)	VANI
+0	-124 m^2	0.4871	hamster	Applied Mathematics	1.8776	boxing	1485 mph	-687	307 m/(s^2)	Sam
+8	-85 m^2	0.2499	pig	Statistics	-0.8414	motor sports	1573 mph	-1469	197 m/(s^2)	Chris
+4	2213 m^2	1.9826	GUINEA PIG	Natural Language Processing	1.2117	badminton	956 mph	1845	-7 m/(s^2)	Fabrice
+8	1384 m^2	1.825	rat	Bioinformatics	0.333	motor sports	907 mph	-752	578 m/(s^2)	Chris
+9	1422 m^2	1.3725	dog	Computer Engineering, Technology and Information Management	-0.1432	soccer	393 mph	659	-11 m/(s^2)	Lise
+8	43 m^2	1.9995	pig	Statistics	0.4015	motor sports	588 mph	552	270 m/(s^2)	Chris
+7	1333 m^2	0.2344	NULL	Games and Playable Media	0.3781	soccer	383 mph	790	2139 m/(s^2)	Lise
+4	889 m^2	-0.3205	guinea pig	Natural Language Processing	1.7321	badminton	860 mph	-953	117 m/(s^2)	Tony
+7	68 m^2	1.5303	cat	Games and Playable Media	0.0263	soccer	703 mph	1843	-278 m/(s^2)	Lise
+7	1872 m^2	0.402	BIRD	Games and Playable Media	0.0403	motor sports	1216 mph	-56	-77 m/(s^2)	Lise
+6	-348 m^2	2.2087	fish	Robotics Engineering	1.0288	football	787 mph	947	-968 m/(s^2)	Vani
+2	576 m^2	0.594	rat	Electrical Engineering	?	basketball	431 mph	-72	705 m/(s^2)	Eriq
+4	1049 m^2	0.5182	bird	Natural Language Processing	0.0642	badminton	397 mph	-797	-615 m/(s^2)	Fabrice
+1	1610 m^2	0.345	rabbit	Computer Game Design	-0.3753	baseball	325 mph	718	-275 m/(s^2)	Inan
+5	-16 m^2	0.1144	reptile	Biotechnology	1.8507	volleyball	823 mph	-1452	-1181 m/(s^2)	Andrew
+5	1147 m^2	0.5452	reptile	Biotechnology	-0.0115	volleyball	1731 mph	-182	717 m/(s^2)	Andrew
+7	1098 m^2	-0.1274	cat	Games and Playable Media	-0.719	soccer	2271 mph	2181	1418 m/(s^2)	Lise
+4	1456 m^2	1.32	guinea pig	Natural Language Processing	1.6451	badminton	1003 mph	157	-774 m/(s^2)	Fabrice
+1	733 m^2	1.3622	rabbit	Computer Game Design	-0.4604	volleyball	-168 mph	-353	396 m/(s^2)	Inan
+0	-338 m^2	0.4095	hamster	Applied Mathematics	1.357	boxing	1891 mph	446	-1320 m/(s^2)	Sam
+8	379 m^2	0.4661	pig	Statistics	-0.1227	motor sports	1184 mph	-110	1470 m/(s^2)	Chris
+9	169 m^2	1.4347	dog	Computer Engineering	0.5809	golf	1272 mph	-318	-1056 m/(s^2)	Michael
+6	-1026 m^2	0.4819	fish	Robotics Engineering	-0.8491	football	1005 mph	673	1687 m/(s^2)	Vani
+7	567 m^2	0.7748	cat	Games and Playable Media	0.4946	soccer	1818 mph	1682	753 m/(s^2)	Lise
+1	384 m^2	2.0079	rabbit	Computer Game Design	1.322	baseball	-77 mph	-84	-107 m/(s^2)	Inan
+3	-1417 m^2	-0.7835	bird	Computational Media	-0.3574	track & field	-47 mph	309	685 m/(s^2)	REILLY
+5	2130 m^2	0.9829	reptile	Data Science	1.2548	Volleyball	1887 mph	0	260 m/(s^2)	Andrew
+3	23 m^2	1.8036	bird	Computational Media	-0.9529	track & field	91 mph	511	-41 m/(s^2)	Tony
+0	-1199 m^2	0.4079	hamster	Applied Mathematics	0.3188	boxing	-16 mph	-307	67 m/(s^2)	Sam
+7	749 m^2	0.6266	cat	Games and Playable Media	0.2007	soccer	218 mph	-1272	1480 m/(s^2)	Lise
+5	780 m^2	2.2551	reptile	Biotechnology	-0.3646	volleyball	1045 mph	-460	-1307 m/(s^2)	Andrew
+4	1538 m^2	0.0026	cat	Natural Language Processing	1.8139	badminton	133 mph	-664	2195 m/(s^2)	Fabrice
+5	1136 m^2	1.5813	ferret	Biotechnology	None	volleyball	309 mph	1664	-1197 m/(s^2)	Andrew
+1	613 m^2	0.9822	rabbit	Computer Game Design	-0.2637	ice hockey	721 mph	-363	607 m/(s^2)	Inan
+0	1152 m^2	0.7481	hamster	Applied Mathematics	1.6386	boxing	540 mph	2	649 m/(s^2)	Andrew
+7	-255 m^2	-0.1532	guinea pig	Games and Playable Media	2.3035	soccer	-429 mph	-491	857 m/(s^2)	LISE
+0	-471 m^2	1.509	hamster	Applied Mathematics	1.4388	motor sports	302 mph	1411	-97 m/(s^2)	Sam
+9	-172 m^2	1.3513	rat	Technology and Information Management	0.915	golf	663 mph	1622	-304 m/(s^2)	Michael
+2	1394 m^2	-0.8088	ferret	Electrical Engineering	0.3358	basketball	-1043 mph	342	1236 m/(s^2)	ANDREW
+1	-87 m^2	0.7165	pig	Computer Game Design	3.4993	baseball	491 mph	-305	2324 m/(s^2)	Inan
+1	1386 m^2	1.0695	rabbit	Computer Game Design	2.5667	ice hockey	471 mph	518	1579 m/(s^2)	Inan
+5	684 m^2	1.0392	reptile	Biotechnology	-0.7568	VOLLEYBALL	1076 mph	237	-1279 m/(s^2)	Andrew
+1	-294 m^2	1.5693	rabbit	Computer Game Design	1.0491	ice hockey	1250 mph	-615	181 m/(s^2)	Inan
+4	N/A	-0.5641	guinea pig	Natural Language Processing	-0.6678	badminton	1223 mph	-235	1494 m/(s^2)	Fabrice
+7	-379 m^2	1.9523	cat	Games and Playable Media	1.4044	soccer	493 mph	-539	-125 m/(s^2)	Lise
+4	1642 m^2	0.6544	guinea pig	Natural Language Processing	0.8002	badminton	276 mph	382	60 m/(s^2)	Fabrice
+0	676 m^2	2.4441	hamster	Applied Mathematics	1.9378	boxing	610 mph	123	-904 m/(s^2)	Sam
+6	329 m^2	0.4138	fish	Robotics Engineering	1.1305	running	938 mph	3407	94 m/(s^2)	Vani
+9	1180 m^2	-0.2684	dog	Technology and Information Management, Computer Engineering	-0.5352	golf	855 mph	909	-76 m/(s^2)	Michael
+5	159 m^2	1.554	reptile	Data Science	1.3967	volleyball	317 mph	1186	218 m/(s^2)	Andrew
+8	808 m^2	0.4016	pig	Bioinformatics	0.1909	motor sports	2548 mph	385	-51 m/(s^2)	Chris
+2	475 m^2	0.1425	rat	Human Computer Interaction, Bioengineering	2.0171	basketball	74 mph	1406	1435 m/(s^2)	Eriq
+9	-911 m^2	0.7005	chicken	Computer Engineering, Computer Science	-0.7674	golf	-973 mph	912	194 m/(s^2)	Michael
+5	2398 m^2	0.7482	reptile	Biotechnology	-0.4659	volleyball	591 mph	124	-1205 m/(s^2)	Michael
+2	419 m^2	-0.0795	rat	Bioengineering, Human Computer Interaction	1.7323	basketball	880 mph	2060	1302 m/(s^2)	Eriq
+0	254 m^2	1.1627	hamster	Applied Mathematics	1.817	boxing	722 mph	1502	-2067 m/(s^2)	Sam
+3	-429 m^2	-0.1347	cat	Computational Media	-0.9143	track & field	538 mph	-93	1478 m/(s^2)	Vani
+0	403 m^2	-0.797	hamster	Technology and Information Management	0.1266	boxing	1531 mph	-654	145 m/(s^2)	Sam
+2	1279 m^2	1.5552	rat	Bioengineering, Electrical Engineering	1.1505	basketball	838 mph	-351	-347 m/(s^2)	Eriq
+3	218 m^2	-0.6796	bird	cOMPUTATIONAL mEDIA	1.3417	tennis	1348 mph	942	968 m/(s^2)	Reilly
+9	-683 m^2	-0.0127	chicken	Technology and Information Management	-0.551	GOLF	588 mph	-711	-553 m/(s^2)	Michael
+9	207 m^2	-0.3416	chicken	Computer Engineering, Technology And Information Management	-0.7867	golf	1868 mph	393	-590 m/(s^2)	Michael
+7	1067 m^2	0.8894	cat	Games and Playable Media	0.0889	soccer	752 mph	1097	-386 m/(s^2)	Lise
+5	1461 m^2	-0.0681	reptile	Data Science	-1.5897	volleyball	450 mph	168	-1010 m/(s^2)	Andrew
+8	978 m^2	0.2837	pig	Robotics Engineering	0.4179	motor sports	364 mph	-1013	1046 m/(s^2)	Chris
+0	175 m^2	1.153	hamster	Applied Mathematics	0.7616	Boxing	1537 mph	654	121 m/(s^2)	Sam
+5	1710 m^2	0.4134	ferret	Biotechnology	0.2189	volleyball	8 mph	-151	-1257 m/(s^2)	Andrew
+8	1105 m^2	0.2242	pig	Bioinformatics	-0.0692	badminton	341 mph	-1322	-11 m/(s^2)	Chris
+2	1125 m^2	-0.2206	guinea pig	Human Computer Interaction	1.3812	basketball	650 mph	884	800 m/(s^2)	Eriq
+2	491 m^2	0.233	rat	Electrical Engineering, Bioengineering	-1.1671	basketball	-18 mph	-965	339 m/(s^2)	Eriq
+4	306 m^2	1.3147	pig	Natural Language Processing	0.4952	running	1004 mph	942	191 m/(s^2)	Fabrice
+0	632 m^2	0.3891	hamster	applied mathematics	0.4936	boxing	113 mph	478	43 m/(s^2)	Sam
+1	617 m^2	0.6003	rabbit	Computer Game Design	1.027	ice hockey	-42 mph	-1286	237 m/(s^2)	Inan
+3	2273 m^2	1.6845	bird	Computational Media	0.2501	track & field	86 mph	496	101 m/(s^2)	Reilly
+0	495 m^2	1.5676	hamster	Applied Mathematics	1.4779	boxing	1297 mph	495	319 m/(s^2)	Sam
+5	1547 m^2	0.566	chicken	Data Science	0.512	volleyball	427 mph	1236	253 m/(s^2)	Andrew
+7	125 m^2	1.1489	cat	Games and Playable Media	1.6533	soccer	686 mph	1161	-5 m/(s^2)	Lise
+4	1294 m^2	0.1406	guinea pig	Natural Language Processing	1.5879	badminton	255 mph	-1420	1707 m/(s^2)	Fabrice
+8	1189 m^2	0.904	pig	Statistics	-0.2343	MOTOR SPORTS	2441 mph	-510	514 m/(s^2)	Chris
+1	-633 m^2	-0.013	rabbit	Computer Game Design	0.6501	ice hockey	1716 mph	131	1939 m/(s^2)	Inan
+9	-907 m^2	-0.94	chicken	Technology and Information Management	0.48	golf	479 mph	1179	-2589 m/(s^2)	Eriq
+3	73 m^2	0.1654	bird	Natural Language Processing	0.5279	track & field	-55 mph	773	730 m/(s^2)	Tony
+6	-560 m^2	0.8482	fish	Robotics Engineering	0.1789	football	572 mph	32	-925 m/(s^2)	Vani
+6	946 m^2	0.7501	fish	Robotics Engineering	-1.4941	football	-21 mph	110	318 m/(s^2)	vani
+2	-309 m^2	-0.6626	rat	Bioengineering, Human Computer Interaction	2.8621	tennis	409 mph	803	756 m/(s^2)	Fabrice
+4	1044 m^2	0.5173	guinea pig	Natural Language Processing	0.7344	volleyball	192 mph	1513	-779 m/(s^2)	Fabrice
+7	1086 m^2	0.1565	cat	Games and Playable Media	-0.5699	soccer	512 mph	1682	-238 m/(s^2)	Lise
+7	63 m^2	1.3066	cat	Games and Playable Media	0.9623	soccer	717 mph	1982	249 m/(s^2)	Lise
+0	-26 m^2	0.8119	hamster	Applied Mathematics	-0.3588	n/a	2015 mph	375	368 m/(s^2)	Sam
+9	-287 m^2	1.7765	pig	Computer Science, Technology and Information Management	0.6824	golf	1629 mph	-281	190 m/(s^2)	Michael
+5	1687 m^2	1.6441	ferret	Biotechnology	1.5423	volleyball	1379 mph	1265	-802 m/(s^2)	Andrew
+4	-520 m^2	0.3083	guinea pig	Natural Language Processing	1.5398	badminton	1563 mph	1880	2052 m/(s^2)	Fabrice
+3	110 m^2	0.5174	rat	Computer Game Design	-1.5374	badminton	1124 mph	-162	671 m/(s^2)	Reilly
+1	1618 m^2	-0.4487	rabbit	Computer Game Design	0.4339	ice hockey	950 mph	-81	496 m/(s^2)	Inan
+9	-67 m^2	1.391	dog	Computer Science, Computer Engineering	-1.1272	golf	209 mph	1281	-364 m/(s^2)	Michael
+9	-1254 m^2	0.9188	chicken	Computer Engineering, Technology and Information Management	1.0091	golf	1292 mph	1583	245 m/(s^2)	mICHAEL
+2	676 m^2	-0.3773	rat	Electrical Engineering, Human Computer Interaction	-0.0773	basketball	570 mph	-38	-413 m/(s^2)	Eriq
+7	1675 m^2	-0.0948	cat	Games and Playable Media	1.3402	soccer	411 mph	2586	1784 m/(s^2)	Reilly
+0	949 m^2	0.9657	hamster	Applied Mathematics	0.7372	boxing	2014 mph	-760	-1757 m/(s^2)	Sam
+4	1064 m^2	1.2168	guinea pig	Natural Language Processing	1.667	badminton	829 mph	-398	-1427 m/(s^2)	Sam
+0	-109 m^2	0.6353	rat	Applied Mathematics	0.8185	boxing	1342 mph	340	960 m/(s^2)	Sam
+7	819 m^2	3.4273	cat	Games and Playable Media	0.2805	soccer	812 mph	1069	744 m/(s^2)	Lise
+8	272 m^2	0.4348	pig	Bioinformatics	1.9753	motor sports	1438 mph	1105	-539 m/(s^2)	Chris
+0	1137 m^2	1.3301	hamster	Applied Mathematics	0.6206	boxing	1244 mph	-470	977 m/(s^2)	Sam
+7	967 m^2	1.5292	cat	Games and Playable Media	-0.1684	Soccer	585 mph	1015	2083 m/(s^2)	Lise
+8	734 m^2	-0.7145	pig	Statistics	-0.2903	motor sports	1323 mph	470	-1381 m/(s^2)	cHRIS
+5	904 m^2	0.341	ferret	Biotechnology	-0.4724	volleyball	1102 mph	839	244 m/(s^2)	Andrew
+9	-360 m^2	1.9271	dog	Computer Science	-0.9291	golf	1384 mph	274	1188 m/(s^2)	Michael
+7	1538 m^2	0.921	cat	Games and Playable Media	0.7815	soccer	1013 mph	213	1528 m/(s^2)	Lise
+3	-2284 m^2	0.001	bird	Computational Media	0.0936	track & field	-189 mph	2005	1688 m/(s^2)	Michael
+6	422 m^2	1.7577	fish	Robotics Engineering	1.7098	running	1338 mph	697	-1035 m/(s^2)	Chris
+6	-102 m^2	0.0904	fish	Robotics Engineering	1.3315	running	1626 mph	972	331 m/(s^2)	Andrew
+8	-963 m^2	1.3472	pig	Statistics	-0.55	motor sports	1102 mph	567	-151 m/(s^2)	Chris
+1	216 m^2	0.4285	bird	Computer Game Design	-0.0946	baseball	124 mph	-243	500 m/(s^2)	Inan
+7	1899 m^2	1.9502	cat	Games and Playable Media	0.7457	soccer	439 mph	-782	1354 m/(s^2)	Lise
+3	815 m^2	1.5863	bird	Applied Mathematics	1.4987	track & field	157 mph	475	-535 m/(s^2)	Vani
+9	100 m^2	0.4433	chicken	Computer Science	-0.8256	basketball	1382 mph	496	231 m/(s^2)	Michael
+6	-94 m^2	0.0152	fish	Robotics Engineering	-0.756	running	836 mph	178	-84 m/(s^2)	Vani
+0	-1311 m^2	2.3156	hamster	Applied Mathematics	1.218	boxing	-447 mph	224	-2977 m/(s^2)	Sam
+2	555 m^2	1.2268	rat	Electrical Engineering, Human Computer Interaction	1.4631	basketball	673 mph	357	2600 m/(s^2)	Eriq
+9	27 m^2	1.3029	chicken	Computer Engineering, Computer Science	0.5078	golf	905 mph	-602	30 m/(s^2)	Michael
+5	1835 m^2	1.3804	ferret	Biotechnology	1.4311	volleyball	222 mph	740	-288 m/(s^2)	Andrew
+2	777 m^2	0.783	rat	Human Computer Interaction, Electrical Engineering	N/A	basketball	539 mph	409	519 m/(s^2)	Eriq
+6	719 m^2	2.4136	fish	Robotics Engineering	0.5281	Running	864 mph	636	-1433 m/(s^2)	Vani
+4	577 m^2	0.4203	guinea pig	Natural Language Processing	-0.7389	badminton	1303 mph	-1003	22 m/(s^2)	Fabrice
+0	735 m^2	1.4708	hamster	Applied Mathematics	0.1272	boxing	1308 mph	-1031	890 m/(s^2)	Sam
+3	-139 m^2	-0.9036	bird	Computational Media	0.2009	track & field	738 mph	1356	-116 m/(s^2)	Reilly
+6	482 m^2	-0.4072	fish	Robotics Engineering	-0.1468	motor sports	-570 mph	1250	478 m/(s^2)	Vani
+4	1806 m^2	0.813	guinea pig	Natural Language Processing	0.618	boxing	246 mph	434	125 m/(s^2)	fABRICE
+7		-0.4785	cat	Games and Playable Media	0.149	soccer	137 mph	1162	-28 m/(s^2)	Lise
+7	338 m^2	0.9919	cat	Games and Playable Media	0.9155	soccer	243 mph	-61	453 m/(s^2)	Lise
+5	-830 m^2		ferret	Data Science	0.1173	volleyball	639 mph	-361	1103 m/(s^2)	Andrew
+2	616 m^2	1.1947	rat	Electrical Engineering	1.2403	basketball	524 mph	228	2149 m/(s^2)	Eriq
+8	40 m^2	-0.1414	pig	Bioinformatics	-0.6639	motor sports	1226 mph	704	-162 m/(s^2)	Chris
+7	388 m^2	1.0186	CAT	NULL	0.1507	ice hockey	954 mph	888	1944 m/(s^2)	Lise
+8	717 m^2	-0.4267	pig	Bioinformatics	-0.5451	motor sports	1051 mph	311	-194 m/(s^2)	Chris
+4	1064 m^2	0.3526	guinea pig	Natural Language Processing	-0.1785	boxing	66 mph	2592	84 m/(s^2)	Fabrice
+9	968 m^2	0.6413	chicken	Computer Science, Technology and Information Management	0.3211	golf	149 mph	-672	-1609 m/(s^2)	Michael
+8	657 m^2	0.4904	pig	Statistics	1.5832	motor sports	15 mph	-60	-340 m/(s^2)	Chris
+6	562 m^2	0.0232	pig	Robotics Engineering	1.0539	football	-991 mph	2796	89 m/(s^2)	Vani
+5	-587 m^2	0.8548	reptile	Biotechnology	-0.3544	volleyball	995 mph	300	-447 m/(s^2)	Andrew
+5	1120 m^2	0.5596	ferret	Data Science	2.2802	volleyball	-66 mph	-1081	1536 m/(s^2)	Andrew
+7	1085 m^2	0.0415	cat	Games and Playable Media	2.291	soccer	1034 mph	1176	741 m/(s^2)	Lise
+3	-2202 m^2	2.8596	bird	Computational Media	-0.2973	track & field	299 mph	686	1500 m/(s^2)	Tony
+2	180 m^2	1.0313	ferret	Human Computer Interaction, Bioengineering	-0.16	basketball	1692 mph	n/a	945 m/(s^2)	Eriq
+7	517 m^2	0.1965	cat	Games and Playable Media	0.4966	soccer	370 mph	1446	1029 m/(s^2)	Lise
+0	1346 m^2	-0.3993	hamster	Applied Mathematics	2.792	running	432 mph	-27	1209 m/(s^2)	sAM
+7	689 m^2	-0.0311	cat	Games and Playable Media	0.3425	soccer	957 mph	93	418 m/(s^2)	Lise
+5	1435 m^2	1.7794	reptile	Data Science	1.064	volleyball	736 mph	-378	-919 m/(s^2)	Andrew
+6	2007 m^2	0.0036	fish	Robotics Engineering	1.5585	running	1437 mph	487	717 m/(s^2)	Vani
+1	596 m^2	0.4918	dog	Computer Game Design	-0.9909	ice hockey	-853 mph	-353	1448 m/(s^2)	Inan
+1	1417 m^2	0.4123	rabbit	Computer Game Design	1.4068	BASEBALL	796 mph	2112	1245 m/(s^2)	Inan
+0	-1555 m^2	1.2456	hamster	Applied Mathematics	0.4265	boxing	1570 mph	-66	-84 m/(s^2)	Sam
+3	51 m^2	1.0972	rat	Computational Media	1.3335	tennis	1258 mph	1466	-258 m/(s^2)	Inan
+4	-323 m^2	-0.335	guinea pig	Natural Language Processing	-0.2384	badminton	-232 mph	-882	300 m/(s^2)	Fabrice
+1	-72 m^2	-0.155	rabbit	Computer Game Design	2.1782	ice hockey	1252 mph	16	250 m/(s^2)	Inan
+0	1178 m^2	0.1081	hamster	aPPLIED mATHEMATICS	1.0882	boxing	719 mph	552	-790 m/(s^2)	Andrew
+0	-694 m^2	0.1123	hamster	Applied Mathematics	-0.0482	boxing	1578 mph	384	1161 m/(s^2)	Sam
+2	-366 m^2	2.2208	rat	Human Computer Interaction, Electrical Engineering	1.3309	basketball	-490 mph	1083	91 m/(s^2)	Eriq
+3	-782 m^2	0.589	bird	Computational Media	0.5374	tennis	1087 mph	238	2519 m/(s^2)	Reilly
+1	-504 m^2	0.2729	rabbit	Computer Game Design	0.2687	ice hockey	848 mph	-88	1079 m/(s^2)	iNAN
+6	20 m^2	0.2501	fish	ROBOTICS ENGINEERING	2.5418	running	-221 mph	326	-456 m/(s^2)	Vani
+1	436 m^2	1.5145	rabbit	Computer Game Design	-1.0613	ice hockey	506 mph	509	1436 m/(s^2)	Inan
+2	-1048 m^2	0.437	rat	Electrical Engineering	1.8208	basketball	566 mph	-2281	2026 m/(s^2)	Eriq
+9	46 m^2	1.8076	dog	Technology and Information Management	0.1529	baseball	-479 mph	730	298 m/(s^2)	Michael
+6	1862 m^2	-0.7098	fish	Robotics Engineering	2.4557	running	-299 mph	1306	-1297 m/(s^2)	Vani
+2	-1013 m^2	0.3349	rat	Electrical Engineering	2.1678	basketball	557 mph	228	152 m/(s^2)	Eriq
+5	1570 m^2	0.5762	reptile	Data Science	-0.3414	volleyball	104 mph	1692	775 m/(s^2)	Andrew
+1	1658 m^2	-0.6576	rabbit	Computer Game Design	0.3731	baseball	1543 mph	-348	406 m/(s^2)	Inan
+6	-270 m^2	-0.7933	rat	Robotics Engineering	0.0415	running	1198 mph	1568	-331 m/(s^2)	vani
+1	1167 m^2	1.3502	rabbit	Computer Game Design	2.2756	baseball	1687 mph	-82	518 m/(s^2)	Inan
+0	989 m^2	0.2109	hamster	Applied Mathematics	0.815	badminton	1955 mph	716	677 m/(s^2)	Sam
+3	202 m^2	2.0403	bird	Computational Media	0.8107	track & field	51 mph	229	2437 m/(s^2)	Tony
+9	1974 m^2	0.8653	dog	Computer Science	-1.0645	golf	40 mph	102	655 m/(s^2)	Michael
+3	-1276 m^2	0.6703	bird	Computational Media	0.0474	tennis	421 mph	1312	559 m/(s^2)	Tony
+7	1021 m^2	-0.777	cat	Games and Playable Media	0.5645	running	939 mph	1930	11 m/(s^2)	Lise
+8	502 m^2	-0.3388	pig	Bioinformatics	1.1946	motor sports	1085 mph	116	261 m/(s^2)	Chris
+1	1732 m^2	0.4672	bird	Computer Game Design	0.6122	volleyball	-396 mph	1025	3104 m/(s^2)	Andrew
+3	2267 m^2	2.0112	bird	COMPUTATIONAL MEDIA	0.2047	track & field	-261 mph	368	-677 m/(s^2)	Tony
+1	-567 m^2	-0.3959	rabbit	Computer Game Design	1.5835	baseball	1766 mph	1411	1981 m/(s^2)	Inan
+4	-137 m^2	0.5107	guinea pig	Natural Language Processing	1.5331	badminton	1388 mph	-354	-1106 m/(s^2)	Fabrice
+6	-1065 m^2	0.1451	fish	Robotics Engineering	1.9013	football	319 mph	1148	-1042 m/(s^2)	Vani
+3	-224 m^2	-0.6	bird	Computational Media	0.8858	track & field	735 mph	-693	985 m/(s^2)	Tony
+0	-985 m^2	1.599	rabbit	Applied Mathematics	0.8389	boxing	1157 mph	-94	-277 m/(s^2)	Sam
+0	183 m^2	-0.9852	hamster	Applied Mathematics	0.3398	boxing	-341 mph	-1431	1955 m/(s^2)	Sam
+3	n/a	2.5305	bird	Computational Media	-0.0574	tennis	20 mph	750	403 m/(s^2)	Tony
+4	-1233 m^2	-0.4529	guinea pig	Natural Language Processing	-0.0409	badminton	320 mph	1044	-326 m/(s^2)	Fabrice
+9	-559 m^2	1.3907	dog	Computer Engineering, Technology and Information Management	-0.6286	golf	-361 mph	837	790 m/(s^2)	Michael
+6	-1306 m^2	1.0059	ferret	Bioinformatics	1.1115	running	220 mph	913	1212 m/(s^2)	Vani
+8	-844 m^2	0.6493	pig	Bioinformatics	1.052	motor sports	2415 mph	654	1696 m/(s^2)	Tony
+5	1042 m^2	-0.2053	reptile	Biotechnology	-0.2894	volleyball	292 mph	1859	-1838 m/(s^2)	Michael
+7	42 m^2	-0.1172	cat	Games And Playable Media	-0.367	soccer	929 mph	-131	969 m/(s^2)	Lise
+1	797 m^2	1.5512	guinea pig	Computer Game Design	0.1724	ice hockey	1076 mph	760	1244 m/(s^2)	Inan
+1	727 m^2	2.1039	rabbit	Computer Game Design	0.0614	ice hockey	1413 mph	233	1107 m/(s^2)	Inan
+8	278 m^2	0.4845	pig	Statistics	0.4666	ice hockey	532 mph	637	1033 m/(s^2)	Chris
+0	485 m^2	-1.8262	rat	Applied Mathematics	-0.2049	boxing	606 mph	631	168 m/(s^2)	Inan
+0	-955 m^2	3.1899	hamster	Applied Mathematics	1.1248	boxing	-511 mph	49	96 m/(s^2)	Fabrice
+3	-50 m^2	1.367	bird	Computational Media	-0.6301	tennis	-664 mph	-1138	-699 m/(s^2)	Reilly
+9	1766 m^2	1.3406	dog	Computer Engineering, Computer Science	-1.1241	GOLF	1536 mph	624	102 m/(s^2)	Michael
+4	-17 m^2	-1.1511	GUINEA PIG	Natural Language Processing	1.2426	badminton	179 mph	236	695 m/(s^2)	Fabrice
+5	2342 m^2	1.2322	ferret	Data Science	0.4498	volleyball	614 mph	9	-971 m/(s^2)	Andrew
+2	342 m^2	0.1208	RAT	Electrical Engineering, Human Computer Interaction	0.3264	basketball	701 mph	97	1276 m/(s^2)	Eriq
+5	506 m^2	0.6459	cat	Biotechnology	1.5102	volleyball	862 mph		398 m/(s^2)	Fabrice
+2	-552 m^2	-0.396	rat	Bioengineering, Human Computer Interaction	2.2663	basketball	1622 mph	-1138	2286 m/(s^2)	Eriq
+4	430 m^2	2.1293	guinea pig	Natural Language Processing	0.9078	badminton	601 mph	-663	-324 m/(s^2)	Fabrice
+2	96 m^2	0.543	rat	Electrical Engineering, Bioengineering	1.5841	motor sports	371 mph	-744	1536 m/(s^2)	Eriq
+2	-89 m^2	1.3094	rat	Human Computer Interaction, Electrical Engineering	-0.7791	basketball	451 mph	957	369 m/(s^2)	Eriq
+2	442 m^2	-0.4676	rat	Human Computer Interaction, Bioengineering	0.4231	basketball	637 mph	38	146 m/(s^2)	Eriq
+6	545 m^2	0.9941	fish	Robotics Engineering	1.7163	football	484 mph	391	-172 m/(s^2)	Vani
+3	365 m^2	0.4605	bird	Computational Media	0.4949	track & field	803 mph	2400	-1128 m/(s^2)	Tony
+9	-881 m^2	0.9211	chicken	Computer Engineering	-0.7083	golf	2182 mph	494	1415 m/(s^2)	Michael
+8	-193 m^2	1.1981	pig	Robotics Engineering	0.1898	motor sports	606 mph	-357	2452 m/(s^2)	Chris
+6	-73 m^2	-0.459	fish	Computational Media	1.3722	football	648 mph	1176	89 m/(s^2)	Vani
+0	471 m^2	2.6185	hamster	Applied Mathematics	0.2483	boxing	312 mph	1031	1715 m/(s^2)	Sam
+8	898 m^2	1.2345	pig	Statistics	0.4286	motor sports	1186 mph	399	972 m/(s^2)	Chris
+7	988 m^2	1.4102	cat	Games and Playable Media	-0.7092	soccer	777 mph	1636	583 m/(s^2)	Fabrice
+7	-225 m^2	0.5688	cat	Games and Playable Media	1.6949	soccer	216 mph	807	824 m/(s^2)	Lise
+9	-1028 m^2	1.3961	dog	Computer Science	0.4301	golf	650 mph	-381	89 m/(s^2)	Michael
+3	384 m^2	0.1222	bird	Computational Media	1.4394	TRACK & FIELD	-555 mph	547	1117 m/(s^2)	Fabrice
+2	-7 m^2	0.7511	rat	Bioengineering, Electrical Engineering	1.1468	basketball	984 mph	1823	2026 m/(s^2)	Eriq
+5	698 m^2	-0.013	reptile	Biotechnology	-0.1559	VOLLEYBALL	531 mph	1159	-1221 m/(s^2)	Andrew
+6	-373 m^2	0.38	fish	Robotics Engineering	2.7304	football	674 mph	179	-676 m/(s^2)	Vani
+7	-121 m^2	1.4208	cat	Games and Playable Media	1.7076	soccer	-317 mph	1855	1226 m/(s^2)	Sam
+8	370 m^2	1.7467	pig	Bioinformatics	1.0385	motor sports	-89 mph	880	-724 m/(s^2)	Chris
+1	-1252 m^2	0.4879	rabbit	Computer Game Design	2.6726	baseball	-570 mph	-1048	1193 m/(s^2)	Inan
+9	165 m^2	0.5968	chicken	Computer Science, Computer Engineering	0.7454	golf	884 mph	382	206 m/(s^2)	Michael
+8	334 m^2	-0.1874	pig	Statistics	-0.1854	motor sports	1037 mph	1461	-52 m/(s^2)	Chris
+3	63 m^2	NULL	bird	Computational Media	-1.11	track & field	188 mph	611	809 m/(s^2)	Lise
+5	1543 m^2	1.8658	reptile	Data Science	-2.0897	volleyball	-382 mph	-732	18 m/(s^2)	Andrew
+9	-1719 m^2	1.8889	chicken	Computer Engineering	0.2868	golf	874 mph	896	390 m/(s^2)	Michael
+6	226 m^2	1.3188	fish	Robotics Engineering	0.801	running	1837 mph	986	-1285 m/(s^2)	Vani
+2	-17 m^2	-0.9116	rat	Bioengineering	1.7902	basketball	645 mph	9	-719 m/(s^2)	Eriq
+6	-1415 m^2	0.3882	fish	Robotics Engineering	0.4588	football	-212 mph	265	-902 m/(s^2)	VANI
+2	-941 m^2	0.5254	rat	Bioinformatics	1.4806	basketball	350 mph	1405	1641 m/(s^2)	Eriq
+6	153 m^2	0.7539	fish	Robotics Engineering	0.4243	ice hockey	786 mph	1286	NULL	Vani
+7	179 m^2	0.3382	cat	Games and Playable Media	0.0959	soccer	1077 mph	397	-471 m/(s^2)	Chris
+7	-642 m^2	0.9623	cat	Games and Playable Media	1.26	soccer	1223 mph	179	442 m/(s^2)	Lise
+8	198 m^2	-0.1538	pig	Statistics	0.9172	baseball	945 mph	592	215 m/(s^2)	Chris
+3	-877 m^2	0.7564	bird	Computational Media	0.3628	track & field	-1536 mph	1696	899 m/(s^2)	Andrew
+7	1150 m^2	1.8116	cat	Games and Playable Media	0.6773	soccer	984 mph	249	766 m/(s^2)	lise
+7	3236 m^2	-0.2398	cat	Games and Playable Media	2.0536	soccer	1705 mph	444	-419 m/(s^2)	Lise
+6	678 m^2	0.5013	fish	Robotics Engineering	1.2437	football	979 mph	-359	-1626 m/(s^2)	Vani
+2	-93 m^2	2.0388	rat	Human Computer Interaction, Electrical Engineering	1.7746	basketball	735 mph	700	884 m/(s^2)	Eriq
+5	-309 m^2	1.7597	ferret	Biotechnology	0.7554	volleyball	31 mph	1454	-775 m/(s^2)	Andrew
+2	336 m^2	0.5055	rat	Electrical Engineering	0.6994	basketball	-11 mph	793	297 m/(s^2)	Eriq
+9	-206 m^2	0.7721	chicken	Computer Science, Technology and Information Management	-2.1226	golf	2647 mph	-644	-30 m/(s^2)	Michael
+3	1568 m^2	3.0717	bird	Computational Media	-0.6053	TRACK & FIELD	-94 mph	409	120 m/(s^2)	Tony
+8	1486 m^2	0.3564	pig	Statistics	0.5234	motor sports	1010 mph	-565	542 m/(s^2)	Chris
+9	294 m^2	-0.3503	chicken	Computer Science, Computer Engineering	0.3954	soccer	158 mph	-278	1068 m/(s^2)	Lise
+3	-26 m^2	0.2572	bird	Computational Media	0.4293	track & field	827 mph	1231	950 m/(s^2)	Tony
+6	191 m^2	0.9996	fish	Robotics Engineering	1.9422	football	-195 mph	-116	-536 m/(s^2)	Vani
+5	586 m^2	1.3981	reptile	Biotechnology	-0.0209	volleyball	450 mph	1649	-550 m/(s^2)	Andrew
+1	1391 m^2	0.7862	pig	Computer Game Design	1.0663	baseball	1085 mph	-1974	741 m/(s^2)	Inan
+3	718 m^2	0.3655	bird	Computational Media	0.3848	tennis	360 mph	2023	1047 m/(s^2)	Reilly
+8	341 m^2	1.0819	pig	Bioinformatics	2.0905	motor sports	497 mph	1451	444 m/(s^2)	Chris
+3	-421 m^2	-0.3345	bird	Computational Media	0.0375	tennis	613 mph	124	-89 m/(s^2)	Tony
+2	230 m^2	-0.4222	rat	Human Computer Interaction, Electrical Engineering	0.739	basketball	495 mph	238	1681 m/(s^2)	Eriq
+0	439 m^2	1.3046	fish	Applied Mathematics	1.228	boxing	1024 mph	-339	344 m/(s^2)	Sam
+8	1075 m^2	-0.1968	pig	Bioinformatics	0.7313	basketball	1315 mph	1845	2150 m/(s^2)	Chris
+6	161 m^2	0.265	fish	Robotics Engineering	-0.0377	football	466 mph	114	?	Vani
+9	-51 m^2	1.1912	chicken	Computer Engineering	-1.825	golf	2105 mph	2553	-1411 m/(s^2)	Michael
+9	-53 m^2	1.1173	n/a	computer science, technology and information management	-0.7223	golf	1464 mph	-43	-545 m/(s^2)	Michael
+6	84 m^2	-0.3672	fish	Robotics Engineering	0.4487	running	1015 mph	-22	-461 m/(s^2)	Vani
+1	1030 m^2	0.9865	rabbit	Computer Game Design	-0.2637	baseball	240 mph	1717	20 m/(s^2)	Inan
+5	-321 m^2	-0.2854	pig	dATA sCIENCE	0.3496	volleyball	1262 mph	-226	2179 m/(s^2)	Andrew
+6	1248 m^2	-0.0232	fish	Robotics Engineering	0.9666	running	1842 mph	67	-525 m/(s^2)	Vani
+7	841 m^2	-2.2742	cat	Games and Playable Media	2.1652	golf	260 mph	114	1393 m/(s^2)	Lise
+3	-1355 m^2	-0.0984	bird	Computational Media	0.4783	tennis	-582 mph	852	1299 m/(s^2)	Inan
+3	390 m^2	2.334	bird	Computational Media	2.171	tennis	1408 mph	292	1338 m/(s^2)	Tony
+5	1116 m^2	-0.287	ferret	Data Science	0.5784	volleyball	648 mph	1737	593 m/(s^2)	aNDREW
+1	1156 m^2	1.6908	rabbit	Computer Game Design	0.44	ice hockey	971 mph	717	-376 m/(s^2)	Fabrice
+0	641 m^2	0.6722	hamster	Applied Mathematics	1.0857	boxing	1192 mph	-873	557 m/(s^2)	Sam
+4	1097 m^2	-0.4976	guinea pig	Natural Language Processing	0.0448	basketball	1020 mph	160	348 m/(s^2)	Fabrice
+5	1399 m^2	1.4953	reptile	Data Science	-0.8581	volleyball	1069 mph	-988	50 m/(s^2)	Andrew
+5	820 m^2	1.5788	ferret	Applied Mathematics	0.4283	volleyball	1061 mph	-569	1704 m/(s^2)	Andrew
+4	901 m^2	0.4718	guinea pig	Natural Language Processing	0.2787	soccer	93 mph	-67	648 m/(s^2)	Fabrice
+6	-552 m^2	-0.7694	fish	ROBOTICS ENGINEERING	-0.1185	running	1772 mph	177	-22 m/(s^2)	Vani
+4	1905 m^2	1.137	guinea pig	Natural Language Processing	0.0751	badminton		-70	-1121 m/(s^2)	Fabrice
+5	969 m^2	0.5152	reptile	Biotechnology	0.0263	volleyball	N/A	412	1102 m/(s^2)	Andrew
+8	1736 m^2	0.3073	pig	Bioinformatics	1.1525	motor sports	563 mph	-880	-1528 m/(s^2)	Chris
+3	824 m^2	0.7603	bird	Computational Media	0.4136	track & field	615 mph	-1596	902 m/(s^2)	Tony
+9	531 m^2	-1.2709	dog	technology and information management, computer engineering	-0.4466	track & field	561 mph	31	-1817 m/(s^2)	Michael
+2	245 m^2	2.0352	rat	Bioengineering	0.0402	basketball	894 mph	-183	-196 m/(s^2)	Eriq
+4	13 m^2	-0.3033	guinea pig	Natural Language Processing	0.8753	volleyball	485 mph	-570	-849 m/(s^2)	Fabrice
+2	571 m^2	-1.4928	rat	Electrical Engineering	0.997	basketball	287 mph	534	2677 m/(s^2)	Eriq
+7	354 m^2	0.8085	cat	Games and Playable Media	0.2362	soccer	1641 mph	1497	-147 m/(s^2)	Lise
+7	1152 m^2	0.0422	cat	Games and Playable Media	2.1095	soccer	277 mph	1548	1148 m/(s^2)	Lise
+9	-280 m^2	0.441	dog	Computer Engineering	-0.5928	Golf	476 mph	-55	436 m/(s^2)	Michael
+7	1832 m^2	1.2506	cat	Games and Playable Media	2.9094	soccer	48 mph	971	536 m/(s^2)	Lise
+4	332 m^2	2.0018	guinea pig	Natural Language Processing	1.5122	badminton	1247 mph	1509	-2039 m/(s^2)	Fabrice
+9	921 m^2	0.8296	chicken	Technology and Information Management, Computer Science	-0.6277	golf	1486 mph	426	-856 m/(s^2)	Michael
+9	427 m^2	0.8635	hamster	Technology and Information Management, Computer Science	0.1162	golf	-345 mph	-1080	96 m/(s^2)	Michael
+9	-371 m^2	0.702	chicken	Computer Engineering, Computer Science	-0.1312	golf	1847 mph	-224	1011 m/(s^2)	
+5	159 m^2	-0.8821	guinea pig	Biotechnology	0.1219	volleyball	-80 mph	-839	609 m/(s^2)	Andrew
+5	187 m^2	0.4218	reptile	Biotechnology	-0.9215	volleyball	257 mph	-431	-2011 m/(s^2)	Andrew
+0	654 m^2	0.1894	hamster	Applied Mathematics	3.0832	boxing	930 mph	1357	-160 m/(s^2)	Sam
+6	193 m^2	2.4106	fish	Robotics Engineering	1.7646	running	1287 mph	131	1216 m/(s^2)	Vani
+6	4 m^2	1.3869	fish	Robotics Engineering	0.2366	football	1470 mph	987	826 m/(s^2)	Vani
+8	204 m^2	-1.5487	guinea pig	Bioinformatics	0.0881	basketball	573 mph	-1566	-1170 m/(s^2)	Chris
+4	704 m^2	0.2708	guinea pig	Natural Language Processing	-2.0325	badminton	-367 mph	1507	-662 m/(s^2)	Vani
+7	1674 m^2	-0.5465	cat	Games and Playable Media	-0.2511	soccer	-20 mph	444	398 m/(s^2)	Lise
+0	1236 m^2	-0.137	hamster	Applied Mathematics	0.9227	boxing	654 mph	880	1910 m/(s^2)	Sam
+6	-743 m^2	0.2416	fish	Robotics Engineering	0.1858	football	2600 mph	2114	1054 m/(s^2)	Vani
+8	161 m^2	-0.1309	fish	Bioinformatics	0.0496	motor sports	307 mph	-944	465 m/(s^2)	Chris
+7	857 m^2	1.8471	cat	Games and Playable Media	0.6032	soccer	478 mph	126	1639 m/(s^2)	Lise
+7	598 m^2	1.4526	cat	Games and Playable Media	1.0443	soccer	1460 mph	-230	1241 m/(s^2)	Lise
+8	654 m^2	1.6454	pig	Bioinformatics	-0.0799	motor sports	1408 mph	-2649	-55 m/(s^2)	Chris
+9	-548 m^2	2.0815	chicken	Technology and Information Management	0.4908	golf	1031 mph	597	904 m/(s^2)	Michael
+8	230 m^2	0.0583	pig	Bioinformatics	0.4632	motor sports	271 mph	-423	656 m/(s^2)	Chris
+3	1189 m^2	3.303	bird	Computational Media	0.292	tennis	817 mph	630	1315 m/(s^2)	Reilly
+5	1122 m^2	1.3175	pig	Data Science	0.6854	volleyball	564 mph	82	-392 m/(s^2)	Andrew
+2	1476 m^2	1.5147	rat	Human Computer Interaction	1.1725	basketball	1150 mph	1075	1106 m/(s^2)	Eriq
+9	-215 m^2	0.5468	dog	Computer Engineering, Computer Science	0.931	golf	2218 mph	1849	-310 m/(s^2)	Michael
+8	1042 m^2	-0.6809	pig	Bioinformatics	-0.3418	motor sports	300 mph	469	-1271 m/(s^2)	Andrew
+2	806 m^2	1.8702	cat	Bioengineering, Human Computer Interaction	0.5029	basketball	1056 mph	1327	-1136 m/(s^2)	Eriq
+4	1115 m^2	0.4569	guinea pig	Natural Language Processing	2.3037	badminton	750 mph	1419	1514 m/(s^2)	Fabrice
+5	905 m^2	0.0785	ferret	Biotechnology	-0.5807	volleyball	784 mph	1077	1859 m/(s^2)	Andrew
+1	621 m^2	0.7521	rabbit	Computer Game Design	-0.0713	Ice Hockey	819 mph	889	-496 m/(s^2)	Inan
+2	-637 m^2	0.5837	rat	Bioengineering	0.6849	BASKETBALL	149 mph	327	2309 m/(s^2)	Eriq
+8	1818 m^2	0.7138	pig	Bioinformatics	-1.5244	motor sports	1770 mph	1607	685 m/(s^2)	Chris
+8	2273 m^2	2.0586	pig	Statistics	1.2394	motor sports	777 mph	369	1379 m/(s^2)	Chris
+7	2062 m^2	-1.6661	reptile	Games and Playable Media	0.4278	soccer	284 mph	986	-297 m/(s^2)	Lise
+6	-670 m^2	-0.6506	fish	Robotics Engineering	0.9568	running	1230 mph	20	-152 m/(s^2)	Vani
+1	712 m^2	2.0956	rabbit	Computer Game Design	-0.987	ice hockey	-157 mph	-824	1348 m/(s^2)	Inan
+2	-684 m^2	0.4785	rat	Electrical Engineering, Bioengineering	0.6667	basketball	588 mph	-124	1350 m/(s^2)	Eriq
+0	-479 m^2	0.461	hamster	Applied Mathematics	1.4128	boxing	1563 mph	988	None	Michael
+0	-33 m^2	-1.0634	hamster	Applied Mathematics	1.1863	boxing	577 mph	104	519 m/(s^2)	Sam
+5	-256 m^2	0.484	ferret	Biotechnology	1.4051	volleyball	-401 mph	-540	310 m/(s^2)	Andrew
+4	87 m^2	1.0359	guinea pig	Natural Language Processing	0.7593	badminton	-791 mph	954	-596 m/(s^2)	Fabrice
+3	453 m^2	0.1523	bird	Computational Media	1.9208	track & field	1534 mph	2851	None	Reilly
+7	18 m^2	0.5444	cat	Games and Playable Media	-0.6667	soccer	1025 mph	2538	-1618 m/(s^2)	Lise
+8	108 m^2	1.6573	pig	bIOINFORMATICS	1.2042	motor sports	472 mph	-1050	-96 m/(s^2)	Chris
+5	730 m^2	N/A	ferret	Data Science	-0.0562	volleyball	667 mph	-57	-963 m/(s^2)	Chris
+0	351 m^2	1.1084	hamster	Applied Mathematics	2.3066	boxing	1082 mph	1015	-2391 m/(s^2)	Sam
+9	445 m^2	1.2458	chicken	Technology and Information Management, Computer Engineering	0.4847	golf	315 mph	-1062	-375 m/(s^2)	Michael
+8	982 m^2	1.3469	pig	STATISTICS	0.9926	motor sports	653 mph	-112	-509 m/(s^2)	Chris
+2	942 m^2	0.0506	fish	Electrical Engineering, Bioengineering	0.9745	basketball	-272 mph	1307	-826 m/(s^2)	Eriq
+1	822 m^2	1.581	rabbit	Computer Game Design	1.2177	ice hockey	1803 mph	842	318 m/(s^2)	Inan
+6	581 m^2	1.6614	fish	Robotics Engineering	-0.7567	running	1774 mph	-244	-713 m/(s^2)	Michael
+5	-452 m^2	0.28	reptile	Data Science	0.2661	volleyball	-312 mph	1189	644 m/(s^2)	Andrew
+3	-1351 m^2	0.2495	bird	Computational Media	0.8738	tennis	138 mph	517	1169 m/(s^2)	Chris
+0	251 m^2	-1.0914	hamster	Applied Mathematics	1.0325	motor sports	-92 mph	660	-2051 m/(s^2)	Sam
+7	-86 m^2	1.455	hamster	Games and Playable Media	1.067	soccer	89 mph	131	1938 m/(s^2)	Lise
+9	-562 m^2	0.3549	chicken	Technology and Information Management	0.3147	golf	1932 mph	1380	959 m/(s^2)	Michael
+6	76 m^2	0.3701	fish	Robotics Engineering	0.9284	football	2277 mph	187	925 m/(s^2)	Vani
+2		-0.4605	rat	Human Computer Interaction	2.2247	basketball	959 mph	130	-117 m/(s^2)	Eriq
+8	1328 m^2	1.4234	pig	Statistics	-0.2825	motor sports	1879 mph	641	686 m/(s^2)	Chris
+7	967 m^2	0.7055	rat	Games and Playable Media	0.7019	soccer	993 mph	76	964 m/(s^2)	Lise
+8	1264 m^2	-0.537	pig	Statistics	-0.1857	motor sports	596 mph	37	922 m/(s^2)	Chris
+1	322 m^2	0.8099	rabbit	Computer Game Design	2.3351	baseball	-234 mph	1257	-556 m/(s^2)	Inan
+9	133 m^2	0.9739	chicken	Technology and Information Management, Computer Science	0.221	golf	962 mph	892	-175 m/(s^2)	Michael
+2	-2122 m^2	1.0817	rat	Human Computer Interaction, Bioengineering	0.3317	basketball	489 mph	-66	1048 m/(s^2)	Eriq
+8	1023 m^2	-0.3532	cat	Statistics	1.3941	motor sports	-1003 mph	899	?	Reilly
+2	548 m^2	0.5545	rat	Bioengineering	0.0118	basketball	-150 mph	-198	-551 m/(s^2)	Eriq
+5	392 m^2	1.2632	ferret	Data Science	-0.0232	volleyball	770 mph	-142	-295 m/(s^2)	Andrew
+2	608 m^2	2.6674	rat	Electrical Engineering, Human Computer Interaction	0.8852	basketball	1196 mph	1010	678 m/(s^2)	Eriq
+6	873 m^2	0.0691	fish	Robotics Engineering	2.2187	running	839 mph	1156	688 m/(s^2)	Vani
+1	386 m^2	-0.5486	rabbit	Natural Language Processing	0.395	baseball	1332 mph	893	136 m/(s^2)	Andrew
+1	1424 m^2	-0.0029	rabbit	Computer Game Design		ice hockey	-212 mph	79	1788 m/(s^2)	Inan
+2	-282 m^2	1.0119	rat	Human Computer Interaction	2.484	basketball	436 mph	-593	395 m/(s^2)	Eriq
+3	-243 m^2	-0.6905	bird	Computational Media	-0.0105	track & field	-132 mph	606	95 m/(s^2)	Tony
+8	887 m^2	-0.7927	pig	Statistics	-0.0665	motor sports	1102 mph	607	-7 m/(s^2)	Chris
+3	-441 m^2	-0.0749	bird	Computational Media	-1.0955	tennis	176 mph	-317	1699 m/(s^2)	Reilly
+6	-983 m^2	-0.5558	fish	Robotics Engineering	0.8679	running	366 mph	979	980 m/(s^2)	Lise
+3	-186 m^2	0.515	bird	Computational Media	0.0795	tennis	-486 mph	760	844 m/(s^2)	Tony
+3	-456 m^2	0.0898	bird	Computational Media	-0.7172	track & field	989 mph	-18	331 m/(s^2)	Reilly
+4	-573 m^2	1.1202	guinea pig	Natural Language Processing	-0.1017	boxing	1065 mph	1175	-377 m/(s^2)	Fabrice
+2	1018 m^2	1.5757	rat	Bioengineering	0.6726	basketball	702 mph	-81	125 m/(s^2)	Eriq
+1	1150 m^2	0.1644	rabbit	Bioinformatics	-0.6413	ice hockey	873 mph	225	1560 m/(s^2)	Inan
+5	47 m^2	1.6493	ferret	Data Science	0.911	volleyball	325 mph	-763	1296 m/(s^2)	Andrew
+3	1196 m^2	0.4655	guinea pig	Computational Media	-0.6184	basketball	203 mph	959	1567 m/(s^2)	Lise
+1	813 m^2	0.0346	rabbit	Computational Media	0.1202	baseball	1951 mph	364	831 m/(s^2)	Lise
+7	1524 m^2	0.5962	cat	Games and Playable Media	0.2784	soccer	926 mph	422	853 m/(s^2)	Lise
+8	-135 m^2	1.3224	pig	Statistics	0.1324	soccer	1169 mph	-105	-763 m/(s^2)	Chris
+6	2138 m^2	0.8005	fish	Robotics Engineering	1.6772	football	673 mph	-235	-775 m/(s^2)	Vani
+6	465 m^2	-0.6309	pig	Robotics Engineering	1.4637	running	857 mph	-84	146 m/(s^2)	Vani
+4	-192 m^2	0.1337	GUINEA PIG	Computational Media	2.8904	badminton	251 mph	190	1027 m/(s^2)	Fabrice
+9	-397 m^2	0.5813	chicken	Computer Engineering, Technology and Information Management	-0.8378	golf	1844 mph	799	8 m/(s^2)	mICHAEL
+6	377 m^2	0.79	bird	Robotics Engineering	-0.4439	football	540 mph	1375	680 m/(s^2)	Vani
+1	-275 m^2	0.2919	rabbit	Computer Game Design	2.7379	ice hockey	1235 mph	694	1515 m/(s^2)	Inan
+7	882 m^2	0.2171	cat	Games and Playable Media	2.5475	soccer	-91 mph	8	-89 m/(s^2)	Lise
+4	1727 m^2	0.5166	guinea pig	Natural Language Processing	0.3536	track & field	636 mph	-533	-46 m/(s^2)	Fabrice
+2	109 m^2	1.4436	?	eLECTRICAL eNGINEERING	0.2798	n/a	744 mph	-383	1513 m/(s^2)	Eriq
+0	308 m^2	1.1359	hamster	Applied Mathematics	0.7603	boxing	1604 mph	1002	-578 m/(s^2)	Sam
+3	-155 m^2	2.6597	bird	Computational Media	0.7695	tennis	-108 mph	339	-655 m/(s^2)	Tony
+3	-1241 m^2	1.8433	bird	Computational Media	-0.4999	track & field	11 mph	811	413 m/(s^2)	Tony
+9	-468 m^2	-1.0803	rabbit	Computer Science	0.0127	golf	596 mph	610	684 m/(s^2)	Chris
+7	867 m^2	0.1149	cat	Games and Playable Media	-0.1964	soccer	185 mph	1318	1757 m/(s^2)	Lise
+3	-1433 m^2	0.3294	bird	Computational Media	-0.7113	track & field	1499 mph	420	1548 m/(s^2)	Tony
+1	2698 m^2	-0.4025	rabbit	Computer Game Design	1.1201	ice hockey	365 mph	637	-1010 m/(s^2)	Inan
+8	1321 m^2	2.0484	pig	Bioinformatics	0.0485	motor sports	470 mph	-691	620 m/(s^2)	Chris
+1	646 m^2	-0.3559	rabbit	Computer Game Design	2.9664	ICE HOCKEY	613 mph	148	-20 m/(s^2)	Inan
+4	586 m^2	0.0423	guinea pig	Natural Language Processing	-0.2223	badminton	2215 mph	476	-1135 m/(s^2)	Fabrice
+0	-298 m^2	0.2423	hamster	Applied Mathematics	1.7094	boxing	1637 mph	-93	-173 m/(s^2)	Sam
+3	-2426 m^2	-0.0776	bird	Computational Media	1.1192	track & field	-271 mph	675	1918 m/(s^2)	Reilly
+6	2430 m^2	0.5718	fish	Robotics Engineering	0.838	running	-64 mph	-26	316 m/(s^2)	Vani
+4	605 m^2	0.2465	guinea pig	Natural Language Processing	1.0809	badminton	612 mph	1503	-595 m/(s^2)	Fabrice
+9	397 m^2	-0.491	chicken	Computer Engineering	0.6993	golf	211 mph	2550	-256 m/(s^2)	Michael
+9	-236 m^2	0.4624	None	Computer Engineering, Computer Science	-0.8097	golf	320 mph	114	1812 m/(s^2)	MICHAEL
+2	420 m^2	2.0406	rat	Human Computer Interaction	-0.1652	volleyball	524 mph	-533	2689 m/(s^2)	Eriq
+3	305 m^2	0.6544	bird	Computational Media	-1.2057	tennis	270 mph	1051	1937 m/(s^2)	Reilly
+0	803 m^2	0.0404	hamster	Applied Mathematics	1.5273	boxing	2284 mph	1334	569 m/(s^2)	Sam
+3	1494 m^2	1.026	pig	Computational Media	0.3053	tennis	31 mph	1879	-1132 m/(s^2)	Inan
+7	1358 m^2	0.7593	cat	Games and Playable Media	1.4505	football	447 mph	-1330	117 m/(s^2)	Lise
+1	1250 m^2	-0.7183	rabbit	Computer Game Design	0.6759	ice hockey	2563 mph	-103	-190 m/(s^2)	Vani
+6	854 m^2	0.4568	fish	Robotics Engineering	2.7356	football	1124 mph	1201	-651 m/(s^2)	Vani
+3	-698 m^2	-0.6356	cat	Computational Media	0.4425	track & field	1369 mph	1961	2482 m/(s^2)	Reilly
+1	124 m^2	0.1628	reptile	Computer Game Design	1.3727	baseball	978 mph	351	274 m/(s^2)	Inan
+9	630 m^2	0.6924	chicken	Technology and Information Management, Computer Engineering	-0.502	golf	661 mph	294	-1679 m/(s^2)	Sam
+9	984 m^2	-1.4291	chicken	Computer Science, Technology and Information Management	0.0398	golf	1549 mph	-1222	111 m/(s^2)	Michael
+4	264 m^2	0.3926	guinea pig	Natural Language Processing	0.8129	track & field	120 mph	37	-232 m/(s^2)	Fabrice
+3	-157 m^2	0.086	bird	Computational Media	-0.6974	tennis	354 mph	726	327 m/(s^2)	Reilly
+6	187 m^2	0.4969	fish	Robotics Engineering	2.3512	football	1567 mph	1025	-1882 m/(s^2)	Vani
+4	418 m^2	0.4606	guinea pig	NATURAL LANGUAGE PROCESSING	0.5516	badminton	107 mph	759	-135 m/(s^2)	Fabrice
+7	1366 m^2	-0.2655	chicken	Games and Playable Media	0.3939	soccer	282 mph	631	-852 m/(s^2)	Lise
+0	1528 m^2	1.7793	hamster	Applied Mathematics	0.0049	boxing	562 mph	-477	538 m/(s^2)	Sam
+8	1706 m^2	1.4866	pig	Bioinformatics	0.8567	soccer	611 mph	1785	-1889 m/(s^2)	Chris
+6	-534 m^2	0.3343	fish	Robotics Engineering	0.4115	volleyball	1481 mph	225	432 m/(s^2)	Vani
+2	-561 m^2	2.0061	rat	Biotechnology	1.8542	basketball	572 mph	975	2443 m/(s^2)	Eriq
+5	1254 m^2	0.9509	reptile	Biotechnology	1.1214	volleyball	459 mph	-410	325 m/(s^2)	Andrew
+7	1260 m^2	-0.9728	cat	Games and Playable Media	1.2417	soccer	658 mph	2	-269 m/(s^2)	LISE
+9	1634 m^2	-0.4586	chicken	Computer Engineering, Technology and Information Management	0.9839	golf	881 mph	-1972	1626 m/(s^2)	Michael
+9	309 m^2	-0.4995	dog	Computer Engineering, Computer Science	0.1768	motor sports	788 mph	782	1608 m/(s^2)	NULL
+3	24 m^2	3.2365	bird	Statistics	0.0781	golf	930 mph	2263	510 m/(s^2)	Tony
+1	993 m^2	2.2365	rabbit	Computer Game Design	1.4564	baseball	54 mph	-282	873 m/(s^2)	Inan
+8	692 m^2	1.9903	pig	Bioinformatics	-1.2773	motor sports	1243 mph	1320	-438 m/(s^2)	Chris
+5	748 m^2	-0.5839	ferret	Data Science	-0.6705	volleyball	-302 mph	478	24 m/(s^2)	Andrew
+3	-710 m^2	1.6023	bird	Computational Media	?	track & field	393 mph	1887	-636 m/(s^2)	Tony
+6	-490 m^2	1.2737	fish	Robotics Engineering	1.1172	running	968 mph	-40	330 m/(s^2)	Vani
+4	802 m^2	-0.5648	guinea pig	Natural Language Processing	-0.278	badminton	403 mph	647	-24 m/(s^2)	Fabrice
+6	-101 m^2	-0.3431	fish	Robotics Engineering	0.3424	football	1132 mph	1627	86 m/(s^2)	Vani
+6	620 m^2	0.4489	fish	Robotics Engineering	1.9168	running	-90 mph	466	-729 m/(s^2)	Vani
+4	-245 m^2	-0.6495	guinea pig	Natural Language Processing	1.4932	baseball	1169 mph	815	-912 m/(s^2)	Fabrice
+3	222 m^2	1.2694	bird	Computational Media	0.4178	track & field	1433 mph	-705	737 m/(s^2)	Tony
+6	-932 m^2	-1.0789	fish	Robotics Engineering	-0.0548	football	562 mph	713	-874 m/(s^2)	Vani
+4	1639 m^2	-0.4162	guinea pig	Natural Language Processing	0.5584	badminton	126 mph	-2178	145 m/(s^2)	Fabrice
+5	355 m^2	2.0634	reptile	Biotechnology	-1.7154	volleyball	308 mph	412	1321 m/(s^2)	Andrew
+2	372 m^2	0.0497	rat	Human Computer Interaction, Bioengineering	0.9112	basketball	-422 mph	1003	1779 m/(s^2)	Eriq
+3	-446 m^2	0.7038	BIRD	Computational Media	0.4351	motor sports	-593 mph	-385	1154 m/(s^2)	Reilly
+3	242 m^2	1.2689	bird	Computational Media	-0.13	track & field	59 mph	1526	1240 m/(s^2)	Tony
+6	1067 m^2	0.3615	fish	Robotics Engineering	1.0312	running	1009 mph	1217	651 m/(s^2)	Vani
+1	367 m^2	0.3722	?	Computer Game Design	0.3375	baseball	1109 mph	1024	1253 m/(s^2)	Inan
+2	493 m^2	0.2487	rat	Computer Game Design	-0.3679	basketball	1045 mph	-724	738 m/(s^2)	Eriq
+2	24 m^2	0.2466	rat	Electrical Engineering	1.5298	basketball	19 mph	437	-104 m/(s^2)	Eriq
+3	416 m^2	0.5382	bird	Computational Media	0.3099		1635 mph	63	-459 m/(s^2)	Reilly
+8	1232 m^2	-0.9606	pig	Statistics	0.789	motor sports	1880 mph	-435	1103 m/(s^2)	cHRIS
+9	503 m^2	1.6232	dog	Computer Engineering	0.0154	golf	1213 mph	2246	1631 m/(s^2)	Michael
+0	193 m^2	-0.4271	hamster	Applied Mathematics	1.2847	boxing	576 mph	-392	-27 m/(s^2)	Sam
+4	552 m^2	0.1613	guinea pig	Natural Language Processing	0.5603	badminton	294 mph	-832	914 m/(s^2)	Fabrice
+8	1686 m^2	-0.7463	pig	Statistics	-0.2238	motor sports	277 mph	-265	1907 m/(s^2)	Chris
+5	769 m^2	0.0886	reptile	Biotechnology	-0.2117	soccer	-431 mph	-879	-1439 m/(s^2)	Andrew
+3	-153 m^2	0.3164	bird	Computational Media	-0.6753	tennis	-613 mph	747	297 m/(s^2)	Tony
+7	774 m^2	1.0183	cat	Games and Playable Media	0.1897	soccer	437 mph	933	-1116 m/(s^2)	Lise
+7	1632 m^2	1.3044	cat	Games and Playable Media	1.0592	track & field	1636 mph	422	1566 m/(s^2)	Lise
+9	1562 m^2	0.0379	dog	Computer Science	N/A	golf	505 mph	99	849 m/(s^2)	Michael
+7	208 m^2	2.1823	cat	Games and Playable Media	1.5748	badminton	981 mph	-537	776 m/(s^2)	Lise
+4	854 m^2	0.8781	guinea pig	Natural Language Processing	1.8722	badminton	65 mph	-333	286 m/(s^2)	Fabrice
+5	407 m^2	0.6486	ferret	Biotechnology	-1.8445	volleyball	620 mph	-1426	646 m/(s^2)	Andrew
+9	655 m^2	-0.4027	dog	Technology and Information Management, Computer Engineering	-0.8278	soccer	1530 mph	-552	-1106 m/(s^2)	Michael
+3	549 m^2	0.0982	bird	Computational Media	0.8263	TENNIS	-988 mph	597	91 m/(s^2)	Reilly
+8	1355 m^2	-0.7747	pig	Statistics	1.0336	Motor Sports	281 mph	103	-321 m/(s^2)	Chris
+8	159 m^2	0.1821	pig	Statistics	-1.3498	motor sports	1066 mph	232	-988 m/(s^2)	chris
+1	1653 m^2	1.3046	rabbit	Computer Game Design	-0.2702	baseball	578 mph	119	562 m/(s^2)	Inan
+5	648 m^2	0.2157	reptile	Data Science	1.3729	volleyball	1159 mph	-219	-1864 m/(s^2)	Andrew
+9	1956 m^2	1.0233	chicken	Computer Science, Technology and Information Management	1.0593	volleyball	407 mph	929	-1987 m/(s^2)	Michael
+0	679 m^2	1.6289	hamster	Applied Mathematics	0.0727	boxing	144 mph	1498	439 m/(s^2)	Sam
+1	-296 m^2	-0.3043	rabbit	Computer Game Design	1.3302	soccer	261 mph	251	1527 m/(s^2)	Inan
+5	693 m^2	-0.4215	reptile	Biotechnology	1.6427	ice hockey	808 mph	-179	-540 m/(s^2)	Andrew
+7	1193 m^2	-0.4298	cat	Games and Playable Media	1.0006	soccer	2110 mph	1470	-331 m/(s^2)	Lise
+2	213 m^2	-1.1265	Cat	Human Computer Interaction	0.3753	basketball	1970 mph	62	1739 m/(s^2)	Eriq
+8	1218 m^2	1.2932	pig	Bioinformatics	-0.4447	motor sports	2264 mph	1102	1567 m/(s^2)	Chris
+9	414 m^2	-0.8804	dog	Computer Engineering, Technology and Information Management	-0.5119	golf	1722 mph	-164	687 m/(s^2)	Michael
+9	1094 m^2	1.6222	fish	Computer Science, Computer Engineering	0.4499	golf	1845 mph	-316	-595 m/(s^2)	Michael
+7	386 m^2	0.7804	cat	Games and Playable Media	-1.3246	soccer	1117 mph	2280	908 m/(s^2)	Lise
+8	606 m^2	1.2121	pig	Statistics	-0.091	motor sports	1092 mph	371	-1128 m/(s^2)	Chris
+0	-30 m^2	0.3082	hamster	Applied Mathematics	1.7961	boxing	1908 mph	1289	-804 m/(s^2)	CHRIS
+3	207 m^2	-0.008	bird	Computational Media	1.0936	track & field	613 mph	1269	-24 m/(s^2)	Tony
+5	670 m^2	0.3517	reptile	Bioinformatics	0.4674	volleyball	867 mph	-331	-96 m/(s^2)	Andrew
+7	922 m^2	-1.3489	cat	Data Science	3.0303	soccer	-150 mph	427	1626 m/(s^2)	Lise
+1	1104 m^2	1.1658	rabbit	Computer Game Design		baseball	513 mph	495	1818 m/(s^2)	Inan
+7	349 m^2	0.115	cat	Games and Playable Media	2.1109	golf	1259 mph	1182	1025 m/(s^2)	Lise
+1	1383 m^2	N/A	rabbit	Computer Game Design	0.0269	ice hockey	543 mph	-147	748 m/(s^2)	Inan
+3	871 m^2	1.5397	bird	Computational Media	1.1994	track & field	966 mph	1890	311 m/(s^2)	Tony
+2	-533 m^2	-0.1161	rat	Human Computer Interaction, Electrical Engineering	N/A	boxing	988 mph	1631	1051 m/(s^2)	Eriq
+1	544 m^2	0.3795	rabbit	Computer Game Design	1.911	ice hockey	34 mph	-337	123 m/(s^2)	Inan
+9	-380 m^2	1.5044	dog	cOMPUTER sCIENCE	1.4446	golf	1607 mph	-82	-384 m/(s^2)	Tony
+3	-997 m^2	0.2069	bird	Computational Media	-0.2795	boxing	289 mph	852	-770 m/(s^2)	Reilly
+6	-1242 m^2	-0.0168	fish	Robotics Engineering	2.2896	football	1284 mph	414	-423 m/(s^2)	Vani
+4	1800 m^2	2.6596	guinea pig	Natural Language Processing	0.7276	badminton	878 mph	222	611 m/(s^2)	Fabrice
+3	-2020 m^2	0.4086	chicken	Computational Media	0.3291	track & field	310 mph	1599	-139 m/(s^2)	Vani
+4	824 m^2	0.3139	guinea pig	N/A	0.8194	badminton	445 mph	1133	2120 m/(s^2)	Fabrice
+3	-838 m^2	0.2548	bird	Computational Media	-0.553	track & field	984 mph	631	311 m/(s^2)	Reilly
+5	-636 m^2	0.7408	reptile	Data Science	-0.3112	volleyball	792 mph	1189	690 m/(s^2)	Andrew
+2	847 m^2	1.8383	rat	Electrical Engineering	1.6757	basketball	643 mph	522	346 m/(s^2)	Eriq
+2	395 m^2	0.772	NULL	Human Computer Interaction, Bioengineering	1.1507	basketball	-391 mph	1215	1180 m/(s^2)	Eriq
+7	502 m^2	1.9503	cat	Games and Playable Media	2.6042	soccer	788 mph	638	-49 m/(s^2)	Chris
+0	43 m^2	1.242	hamster	Natural Language Processing	0.8737	boxing	1591 mph	19	-398 m/(s^2)	Sam
+9	-21 m^2	-0.9547	dog	Robotics Engineering	-0.6921	ice hockey	395 mph	-6	1617 m/(s^2)	Michael
+1	-234 m^2	0.5094	bird	N/A	0.7411	baseball	1639 mph	-800	1292 m/(s^2)	Inan
+9	288 m^2	0.9273	chicken	Computer Engineering, Computer Science	1.9065	football	971 mph	398	-701 m/(s^2)	Michael
+7	-22 m^2	0.2236	cat	Games and Playable Media	-0.3728	soccer	1607 mph	1174	233 m/(s^2)	Lise
+3	-48 m^2	1.7676	bird	Computational Media	1.3151	track & field	1194 mph	114	331 m/(s^2)	Reilly
+3	1083 m^2	-0.8649	bird	Computational Media	-0.8553	tennis	215 mph	1582	655 m/(s^2)	Fabrice
+1	333 m^2	1.0638	rabbit	Computer Game Design	-0.5902	baseball	1333 mph	-664	61 m/(s^2)	NULL
+7	773 m^2	-0.8278	cat	Statistics	0.7978	soccer	60 mph	2299	767 m/(s^2)	Lise
+8	2512 m^2	1.0035	reptile	Statistics	0.963	motor sports	NULL	-1738	1199 m/(s^2)	Vani
+3	-2 m^2	0.0449	bird	Computational Media	-0.7643	track & field	139 mph	1712	-10 m/(s^2)	Tony
+0	-107 m^2	-0.2325	hamster	applied mathematics	-0.4193	boxing	1015 mph	798	-802 m/(s^2)	Chris
+6	498 m^2	2.6727	fish	Robotics Engineering	-1.8504	volleyball	410 mph	641	-1119 m/(s^2)	Vani
+5	896 m^2	0.865	ferret	Biotechnology	-0.0283	volleyball	1019 mph	1076	-23 m/(s^2)	Andrew
+4	1690 m^2	0.6224	guinea pig	Natural Language Processing	-0.0254	badminton	-212 mph	-508	20 m/(s^2)	Fabrice
+7	-1710 m^2	-0.5055	cat	Games and Playable Media	1.4868	soccer	-416 mph	611	-337 m/(s^2)	Lise
+0	602 m^2	0.53	hamster	Applied Mathematics	-0.3282	boxing	-44 mph	1015	148 m/(s^2)	Sam
+9	-1687 m^2	0.843	chicken	Technology and Information Management, Computer Science	0.5012	golf	755 mph	22	179 m/(s^2)	Michael
+7	1650 m^2	0.1411	cat	Games and Playable Media	1.8533	soccer	796 mph	1195	-304 m/(s^2)	Lise
+6	-806 m^2	0.3455	fish	Robotics Engineering	-0.192	running	1242 mph	542	668 m/(s^2)	Andrew
+5	1635 m^2	?	reptile	Data Science	1.4711	volleyball	618 mph	610	-164 m/(s^2)	Andrew
+1	245 m^2	0.2852	rabbit	Computer Game Design	1.4067	ice hockey	1306 mph	-176	1927 m/(s^2)	Inan
+4	503 m^2	0.176	guinea pig	Natural Language Processing	0.7226	volleyball	604 mph	955	-161 m/(s^2)	Fabrice
+1	24 m^2	0.3438	rabbit	Computer Game Design	2.3101	baseball	-358 mph	949	1016 m/(s^2)	Inan
+0	79 m^2	0.7582	hamster	Applied Mathematics	0.0123	boxing	1635 mph	683	-1003 m/(s^2)	Sam
+4	239 m^2	1.3372	guinea pig	Natural Language Processing	?	badminton	651 mph	712	-1156 m/(s^2)	Fabrice
+7	3098 m^2	-0.697	cat	Games and Playable Media	1.2537	soccer	793 mph	246	-246 m/(s^2)	Lise
+4	1069 m^2	2.0657	guinea pig	Natural Language Processing	-0.699	badminton	1621 mph	1625	-461 m/(s^2)	Fabrice
+8	1774 m^2	2.5539	Pig	Statistics	-0.2437	motor sports	1287 mph	-669	-629 m/(s^2)	Chris
+1	797 m^2	0.1117	rabbit	Computer Game Design	1.245	ice hockey	1212 mph	-791	783 m/(s^2)	Inan
+7	-204 m^2	-0.6848	cat	Games and Playable Media	-0.0307	soccer	302 mph	1201	1298 m/(s^2)	Lise
+1	-1017 m^2	1.7838	rabbit	Computer Game Design	2.2011	ice hockey	158 mph	N/A	2029 m/(s^2)	Inan
+5	-178 m^2	0.6365	reptile	Computer Science, Technology and Information Management	-0.4086	volleyball	1121 mph	-1484	-1402 m/(s^2)	Andrew
+6	116 m^2	1.6977	rat	Robotics Engineering	0.4754	running	1829 mph	272	-100 m/(s^2)	Vani
+3	483 m^2	-0.5229	bird	Computational Media	0.5275	track & field	-15 mph	2058	-552 m/(s^2)	reilly
+1	1624 m^2	0.4484	rabbit	Computer Game Design	-0.7976	boxing	999 mph	1138	844 m/(s^2)	Inan
+4	500 m^2	0.1799	guinea pig	Natural Language Processing	1.1322	badminton	900 mph	1508	78 m/(s^2)	Fabrice
+0	324 m^2	1.8923	hamster	Applied Mathematics	1.143	boxing	35 mph	428	348 m/(s^2)	Tony
+4	951 m^2	3.8002	NULL	Natural Language Processing	0.1337	badminton	813 mph	731	-222 m/(s^2)	Fabrice
+9	-484 m^2	2.2323	chicken	Computer Engineering	-0.0656	golf	956 mph	917	216 m/(s^2)	Michael
+5	2206 m^2	0.2011	ferret	Biotechnology	-0.0154	volleyball	574 mph	-636	992 m/(s^2)	Andrew
+9	-1045 m^2	0.8048	None	Computer Engineering, Technology and Information Management	-1.0035	golf	1278 mph	772	643 m/(s^2)	Michael
+0		0.7741	hamster	Applied Mathematics	1.6787	boxing	-547 mph	-642	-1005 m/(s^2)	Sam
+5	625 m^2	0.0815	reptile	Data Science	-1.2101	volleyball	1448 mph	-833	981 m/(s^2)	Andrew
+2	1028 m^2	1.7037	rat	Electrical Engineering	0.0563	basketball	81 mph	267	-625 m/(s^2)	Eriq
+7	1482 m^2	0.4353	cat	Games and Playable Media	0.2062	basketball	453 mph	-760	342 m/(s^2)	Lise
+2	-1842 m^2	-0.3324	rat	Electrical Engineering	0.6095	basketball	1001 mph	309	962 m/(s^2)	Eriq
+4	64 m^2	0.4635	guinea pig	Natural Language Processing	1.2756	badminton	1227 mph	112	21 m/(s^2)	Andrew
+3	-604 m^2	1.2043	bird	Computational Media	-0.5913	baseball	-163 mph	648	-268 m/(s^2)	Tony
+0	184 m^2	1.0526	hamster	aPPLIED mATHEMATICS	0.6547	boxing	527 mph	-431	-322 m/(s^2)	Sam
+1	326 m^2	0.3329	rabbit	Computer Game Design	1.6044	ice hockey	375 mph	643	134 m/(s^2)	Inan
+0	1277 m^2	1.4726	hamster	Applied Mathematics	0.9182	boxing	1849 mph	-435	898 m/(s^2)	Sam
+3	615 m^2	1.6494	bird	Computational Media	0.7321	track & field	-866 mph	692	-210 m/(s^2)	Lise
+7	1061 m^2	1.1427	cat	Games and Playable Media	0.7591	soccer	33 mph	768	351 m/(s^2)	Lise
+8	548 m^2	0.316	pig	Bioinformatics	-0.4916	motor sports	?	943	531 m/(s^2)	Chris
+9	-1763 m^2	1.1112	dog	Computer Engineering	-0.3865	golf	464 mph	663	519 m/(s^2)	Michael
+7	1503 m^2	1.3089	cat	Games and Playable Media	0.0418	soccer	460 mph	1819	874 m/(s^2)	Lise
+4	n/a	-0.4501	guinea pig	Natural Language Processing	0.6956	badminton	849 mph	-487	266 m/(s^2)	Fabrice
+3	1174 m^2	1.8825	bird	Computational Media	-0.4005	track & field	103 mph	186	313 m/(s^2)	Reilly
+4	-341 m^2	2.0617	guinea pig	Natural Language Processing	0.8345	basketball	2044 mph	883	-1078 m/(s^2)	Fabrice
+9	281 m^2	-0.337	chicken	COMPUTER ENGINEERING	-0.0577	golf	374 mph	154	1160 m/(s^2)	Michael
+0	-2055 m^2	-0.5481	hamster	Applied Mathematics	1.1037	boxing	283 mph	1257	-742 m/(s^2)	Sam
+6	1430 m^2	2.3115	fish	Robotics Engineering	0.3015	running	1171 mph	1874	-61 m/(s^2)	Vani
+5	1208 m^2	0.0908	reptile	Biotechnology	-0.3363	volleyball	-367 mph	778	192 m/(s^2)	Andrew
+2	352 m^2	0.8997	rat	Human Computer Interaction	1.6586	basketball	748 mph	199	1912 m/(s^2)	Eriq
+6	871 m^2	0.074	fish	Robotics Engineering	1.5082	running	?	1345	1205 m/(s^2)	Vani
+4	740 m^2	-0.1524	dog	Natural Language Processing	1.384	badminton	1440 mph	-1230	1745 m/(s^2)	Fabrice
+1	-597 m^2	-0.71	reptile	Computer Game Design	1.0365	baseball	813 mph	1222	-446 m/(s^2)	Tony
+8	670 m^2	0.446	pig	Statistics	0.8899	motor sports	31 mph	-343	-160 m/(s^2)	Chris
+5	1648 m^2	0.4339	ferret	Data Science	1.5607	volleyball	428 mph	-419	407 m/(s^2)	Fabrice
+9	-401 m^2	-1.1767	dog	Games and Playable Media	-0.3244	boxing	67 mph	-304	-104 m/(s^2)	Michael
+9	1295 m^2	0.7243	chicken	Computer Science	-1.084	golf	1845 mph	-69	-267 m/(s^2)	Michael
+5	NULL	1.214	reptile	Data Science	0.0133	volleyball	112 mph	-1060	994 m/(s^2)	Andrew
+8	728 m^2	-0.2459	pig	Bioinformatics	1.6517	boxing	899 mph	812	-101 m/(s^2)	Chris
+4	713 m^2	1.2007	guinea pig	Natural Language Processing	-0.6086	badminton	1771 mph	-980	-308 m/(s^2)	Michael
+7	2883 m^2	1.4487	cat	Games and Playable Media	0.6665	soccer	-277 mph	1330	1961 m/(s^2)	LISE
+6	115 m^2	1.7871	cat	n/a	0.8999	football	1316 mph	1208	531 m/(s^2)	Vani
+9	180 m^2	0.3876	chicken	Computer Engineering	-0.6545	golf	-250 mph	1297	-650 m/(s^2)	Michael
+1	844 m^2	0.9623	hamster	Computer Game Design	-0.4365	baseball	193 mph	-40	-111 m/(s^2)	Inan
+2	1035 m^2	1.0782	rat	Electrical Engineering	-0.1293	basketball	1232 mph	295	934 m/(s^2)	Eriq
+3	-624 m^2	1.308	bird	Computational Media	0.64	track & field	1477 mph	48	-648 m/(s^2)	Reilly
+2	1337 m^2	0.3799	rat	Electrical Engineering, Bioengineering	-0.2867	basketball	-146 mph	849	-951 m/(s^2)	Eriq
+2	-449 m^2	1.307	rat	Electrical Engineering	0.8262	BASKETBALL	800 mph	670	192 m/(s^2)	Eriq
+3	-262 m^2	-0.236	cat	Natural Language Processing	-0.9234	track & field	1051 mph	22	1351 m/(s^2)	Reilly
+0	2546 m^2	0.8828	hamster	Applied Mathematics	-0.2061	boxing	740 mph	1766	491 m/(s^2)	Sam
+5	1132 m^2	-0.1706	ferret	Biotechnology	1.7893	volleyball	343 mph	2436	177 m/(s^2)	Andrew
+8	1158 m^2	-0.741	pig	Statistics	-1.2342	motor sports	1783 mph	628	145 m/(s^2)	Chris
+1	-612 m^2	1.0335	rabbit	Computer Game Design	1.2987	Baseball	706 mph	-915	403 m/(s^2)	Eriq
+2	-726 m^2	1.5062	rat	Bioengineering	1.2482	basketball	899 mph	-336	1223 m/(s^2)	Eriq
+3	-388 m^2	n/a	bird	Computational Media	0.5961	tennis	-125 mph	1013	94 m/(s^2)	Reilly
+6	-147 m^2	0.1692	fish	Robotics Engineering	0.7666	football	1815 mph	1018	733 m/(s^2)	Vani
+2	851 m^2	1.2497	rat	Electrical Engineering, Bioengineering	0.7612	basketball	1486 mph	1192	913 m/(s^2)	Eriq
+1	-82 m^2	-1.9257	rabbit	Computer Game Design	-0.3985	ice hockey	1851 mph	22	407 m/(s^2)	Inan
+4	310 m^2	-0.3221	guinea pig	Natural Language Processing	0.7887	badminton	217 mph	-179	466 m/(s^2)	Fabrice
+8	516 m^2	1.1053	pig	Statistics	0.2099	motor sports	1188 mph	2130	371 m/(s^2)	Chris
+9	938 m^2	0.8296	chicken	Technology and Information Management, Computer Science	0.4329	golf	897 mph	390	-846 m/(s^2)	Fabrice
+8	932 m^2	2.2436	pig	Statistics	0.6163	motor sports	392 mph	-1108	1183 m/(s^2)	Chris
+7	544 m^2	0.118	cat	Games and Playable Media	0.2898	soccer	1218 mph	120	-952 m/(s^2)	Lise
+1	1167 m^2	2.5259	rabbit	Computer Game Design	0.5625	ice hockey	-129 mph	-333	86 m/(s^2)	Inan
+1	1168 m^2	-1.0763	rabbit	Computer Game Design	1.4481	baseball	1948 mph	348	1544 m/(s^2)	Inan
+6	-33 m^2	0.7751	fish	Robotics Engineering	0.427	football	1581 mph	1429	1030 m/(s^2)	Eriq
+2	-447 m^2	-0.5215	rat	Electrical Engineering	0.1763	soccer	-973 mph	5	326 m/(s^2)	Eriq
+2	222 m^2	1.6242	rat	Bioengineering	1.7133	basketball	2213 mph	-952	1521 m/(s^2)	Eriq
+2	-417 m^2	0.3043	rat	Bioengineering, Electrical Engineering	-0.0249	basketball	343 mph	1714	-67 m/(s^2)	Eriq
+3	-58 m^2	0.6061	bird	Computational Media	0.5242	track & field	288 mph	1284	1159 m/(s^2)	Tony
+1	-587 m^2	0.5071	pig	Computer Game Design	0.2149	baseball	472 mph	-554	1766 m/(s^2)	Inan
+8	1286 m^2	0.8606	pig	Statistics	-0.1964	motor sports	737 mph	796	-1284 m/(s^2)	Chris
+8	1514 m^2	2.0532	pig	Bioinformatics	-0.2388	motor sports	862 mph	None	972 m/(s^2)	Chris
+5	1195 m^2	1.9477	ferret	Biotechnology	-0.4236	volleyball	257 mph	-88	-290 m/(s^2)	Andrew
+6	665 m^2	-0.1568	fish	Robotics Engineering	0.5062	boxing	1253 mph	1152	-689 m/(s^2)	vANI
+6	-225 m^2	1.7649	fish	Robotics Engineering	1.8596	running	1594 mph	1519	-88 m/(s^2)	Vani
+8	606 m^2	0.0922	pig	Bioinformatics	-0.2238	motor sports	1559 mph	-498	1322 m/(s^2)	CHRIS
+7	-375 m^2	0.8932	cat	Games and Playable Media	1.9873	soccer	1155 mph	229	482 m/(s^2)	Lise
+1	901 m^2	-0.2117	rabbit	Computer Game Design	1.3229	baseball	540 mph	225	669 m/(s^2)	Inan
+5	1035 m^2	1.8683	reptile	Data Science	2.013	volleyball	1302 mph	886	-600 m/(s^2)	Tony
+2	78 m^2	-0.1213	rat	Human Computer Interaction, Bioengineering	0.2951	basketball	1178 mph	274	1052 m/(s^2)	Tony
+3	-832 m^2	0.6905	pig	Computational Media	-0.553	tennis	883 mph	1568	3126 m/(s^2)	Reilly
+8	464 m^2	0.3012	pig	Statistics	0.9031	motor sports	2753 mph	1034	-588 m/(s^2)	Chris
+9	932 m^2	-0.1239	dog	Technology and Information Management, Computer Science	-0.4038	golf	880 mph	-242	238 m/(s^2)	Michael
+1	1009 m^2	0.2551	rabbit	Computer Game Design	0.8519	ice hockey	2355 mph	1147	-479 m/(s^2)	Inan
+3	653 m^2	-0.6147	bird	Computational Media	-0.5509	baseball	634 mph	842	-60 m/(s^2)	Reilly
+5	577 m^2	0.7635	rat	Data Science	-1.1811	Volleyball	1571 mph	2574	98 m/(s^2)	Andrew
+8	-621 m^2	1.0946	pig	Bioinformatics	-1.0601	motor sports	438 mph	330	-1254 m/(s^2)	Chris
+7	1240 m^2	1.1937	cat	Games and Playable Media	0.5777	soccer	119 mph	793	-749 m/(s^2)	Lise
+9	328 m^2	0.2097	fish	Technology and Information Management, Computer Science	0.6495	golf	-239 mph	401	-538 m/(s^2)	Michael
+9	1050 m^2	0.6307	dog	Computer Engineering, Computer Science	0.6689	golf	871 mph	-580	574 m/(s^2)	Michael
+5	-160 m^2	1.7573	ferret	Biotechnology	0.6417	VOLLEYBALL	141 mph	374	1238 m/(s^2)	Fabrice
+2	492 m^2	1.9777	rat	Bioengineering, Electrical Engineering	1.0252	basketball	-658 mph	957	1098 m/(s^2)	Eriq
+4	681 m^2	0.8639	guinea pig	Natural Language Processing	0.9739	badminton	N/A	-134	-1205 m/(s^2)	Fabrice
+2	940 m^2	0.7376	rat	Human Computer Interaction	1.0909	basketball	970 mph	-718	1489 m/(s^2)	Eriq
+9	-153 m^2	0.927	hamster	Computer Science	0.1384	golf	527 mph	-895	1250 m/(s^2)	Michael
+3	60 m^2	1.7129	bird	Computational Media	0.3355	tennis	308 mph	-150	832 m/(s^2)	Reilly
+2	-1553 m^2	1.1611	rat	Bioengineering	0.9538	baseball	1030 mph	-114	1127 m/(s^2)	Eriq
+6	504 m^2	1.0721	fish	Robotics Engineering	1.4579	running	407 mph		-664 m/(s^2)	Vani
+6	-87 m^2	2.1264	fish	Robotics Engineering	1.0007	running	978 mph	1194	311 m/(s^2)	Vani
+7	694 m^2	0.1086	None	Games and Playable Media	1.4483	soccer	936 mph	881	840 m/(s^2)	Lise
+9	-179 m^2	-0.9917	dog	Computer Engineering, Technology and Information Management	0.1249	golf	1769 mph	1435	473 m/(s^2)	Michael
+3	2294 m^2	1.0048	cat	Computational Media	0.0873	track & field	1747 mph	698	1158 m/(s^2)	Reilly
+4	876 m^2	0.221	guinea pig	Natural Language Processing	0.2139	badminton	1043 mph	12	-1495 m/(s^2)	Fabrice
+0	-977 m^2	-0.3287	hamster	Applied Mathematics	0.5888	soccer	1834 mph	2137	294 m/(s^2)	Sam
+3	-94 m^2	1.0986	bird	Computational Media	-1.4332	tennis	1410 mph	1566	624 m/(s^2)	Tony
+5	1231 m^2	-0.3674	reptile	Biotechnology	0.917	volleyball	520 mph	565	-752 m/(s^2)	Andrew
+5	-163 m^2	0.7515	cat	Biotechnology	-0.3015	volleyball	362 mph	297	294 m/(s^2)	Andrew
+4	-285 m^2	2.8875	guinea pig	Natural Language Processing	0.0835	badminton	372 mph	-132	-432 m/(s^2)	Fabrice
+5	-677 m^2	0.4135	reptile	Biotechnology	-0.4193	volleyball	-240 mph	-586	798 m/(s^2)	Andrew
+7	1823 m^2	0.8519	cat	Games and Playable Media	-0.4505	soccer		175	-1610 m/(s^2)	Andrew
+7	1748 m^2	0.0157	cat	Games and Playable Media	0.5873	soccer	10 mph	993	646 m/(s^2)	Lise
+9	98 m^2	1.1416	chicken	computer science, computer engineering	1.4362	running	1318 mph	564	460 m/(s^2)	Michael
+2	-107 m^2	0.1926	rat	Electrical Engineering, Human Computer Interaction	1.5662	basketball	1100 mph	-1596	50 m/(s^2)	Eriq
+0	-83 m^2	-0.138	hamster	Applied Mathematics	1.8691	boxing	496 mph	428	-713 m/(s^2)	Sam
+5	-234 m^2	0.0442	reptile	Biotechnology	-0.2193	badminton	723 mph	241	-421 m/(s^2)	Andrew
+5	1714 m^2	0.9167	reptile	Biotechnology	-0.9056	volleyball	488 mph	49	806 m/(s^2)	Andrew
+2	105 m^2	0.4305	RAT	Bioengineering, Electrical Engineering	-0.4273	basketball	372 mph	-72	-1023 m/(s^2)	Eriq
+0	-1321 m^2	-0.3065	hamster	aPPLIED mATHEMATICS	0.5731	boxing	1136 mph	-604	-38 m/(s^2)	Sam
+3	-664 m^2	1.3128	rat	Computational Media	-0.1236	tennis	184 mph	-21	1387 m/(s^2)	Reilly
+8	1168 m^2	0.8027	pig	Statistics	-0.4909	motor sports	2207 mph	1053	-988 m/(s^2)	Chris
+7	-74 m^2	0.2139	cat	Games and Playable Media	1.4187	soccer	-1260 mph	1832	1164 m/(s^2)	Lise
+4	1592 m^2	0.906	guinea pig	Natural Language Processing	0.9663	?	1416 mph	303	-755 m/(s^2)	Fabrice
+0	-263 m^2	0.291	hamster	Applied Mathematics	1.4719	boxing	1696 mph	-392	-831 m/(s^2)	Sam
+0	-2213 m^2	-1.3373	hamster	Applied Mathematics	-0.3764	boxing	796 mph	877	-271 m/(s^2)	Sam
+5	1153 m^2	1.7735	guinea pig	Biotechnology	0.4978	volleyball	-210 mph	1769	-383 m/(s^2)	Reilly
+4	522 m^2	0.1626	guinea pig	Natural Language Processing	0.3163	BADMINTON	329 mph	-628	184 m/(s^2)	Fabrice
+5	591 m^2	1.0965	reptile	Data Science	-1.019	track & field	-646 mph	948	-1087 m/(s^2)	Andrew
+3	666 m^2	1.7017	bird	Computational Media	1.3787	track & field	-426 mph	1481	914 m/(s^2)	Reilly
+7	1369 m^2	0.6282	N/A	Games and Playable Media	0.3879	soccer	211 mph	641	1180 m/(s^2)	Lise
+1	71 m^2	-0.1908	rabbit	Computer Game Design	0.7231	ice hockey	1277 mph	-647	-1725 m/(s^2)	Inan
+4	1662 m^2	0.9148	rat	NATURAL LANGUAGE PROCESSING	-0.2093	badminton	471 mph	573	-1002 m/(s^2)	Fabrice
+6	-928 m^2	-0.0498	fish	Robotics Engineering	1.9088	football	1641 mph	785	667 m/(s^2)	Vani
+4	1069 m^2	0.5353	FERRET	Natural Language Processing	0.8953	badminton	-363 mph	-546	-443 m/(s^2)	Fabrice
+6	-746 m^2	1.897	fish	Robotics Engineering	1.1357	football	1051 mph	79	1113 m/(s^2)	Chris
+1	-718 m^2	1.5969	rabbit	Computer Game Design	-0.0108	ice hockey	-211 mph	554	1216 m/(s^2)	Inan
+6	-1555 m^2	1.5453	fish	Robotics Engineering	1.2093	football	787 mph	1096	897 m/(s^2)	Vani
+9	931 m^2	0.1594	chicken	Electrical Engineering	0.6536	golf	666 mph	-331	-410 m/(s^2)	Chris
+4	-601 m^2	1.5067	guinea pig	Natural Language Processing	0.4772	badminton	-75 mph	-447	553 m/(s^2)	Fabrice
+2	711 m^2	0.3848	rat	Data Science	0.7767	basketball	520 mph	-115	2027 m/(s^2)	Eriq
+1	379 m^2	-0.5556	rabbit	Computer Game Design	-0.689	baseball	952 mph	293	364 m/(s^2)	None
+3	-22 m^2	2.5938	bird	Computational Media	-0.528	track & field	383 mph	105	-101 m/(s^2)	Tony
+8	1056 m^2	0.6337	pig	Bioinformatics	1.4359	motor sports	1917 mph	816	-617 m/(s^2)	chris
+3	128 m^2	-0.0778	bird	Computational Media	0.3124	tennis	-281 mph	-58	140 m/(s^2)	Tony
+9	1082 m^2	1.8422	chicken	Computer Science, Technology and Information Management	0.1977	golf	2029 mph	559	133 m/(s^2)	Michael
+7	656 m^2	1.7095	FERRET	Games and Playable Media	1.9286	soccer	914 mph	1557	-404 m/(s^2)	Lise
+6	-225 m^2	1.2899	fish	Robotics Engineering	0.4851	running	874 mph	2234	541 m/(s^2)	Vani
+2	-343 m^2	-0.046	None	Human Computer Interaction	-0.3865	basketball	1129 mph	-142	-1366 m/(s^2)	Eriq
+0	-523 m^2	0.6816	chicken	Applied Mathematics	2.4531	boxing	1206 mph	-991	509 m/(s^2)	Sam
+7	-468 m^2	0.3512	cat	gAMES AND pLAYABLE mEDIA	0.9008	soccer	643 mph	-953	-317 m/(s^2)	Lise
+0	243 m^2	0.3991	hamster	Applied Mathematics	1.295	BOXING	1020 mph	1154	382 m/(s^2)	Sam
+4	100 m^2	-1.8554	guinea pig	Natural Language Processing	-0.6255	?	456 mph	370	197 m/(s^2)	Fabrice
+5	1016 m^2	0.5164	reptile	Biotechnology	0.4371	volleyball	834 mph	-1392	1101 m/(s^2)	Andrew
+2	-556 m^2	1.8806	rat	Electrical Engineering, Human Computer Interaction	0.1254	basketball	37 mph	-467	1245 m/(s^2)	Eriq
+3	-714 m^2	1.4914	bird	Computational Media	1.1605	track & field	635 mph	1958	-404 m/(s^2)	Tony
+0	-572 m^2	0.6147	guinea pig	Applied Mathematics	1.8407	boxing	656 mph	-205	474 m/(s^2)	Sam
+5	1792 m^2	0.5743	reptile	Biotechnology	-0.4164	volleyball	1323 mph	-359	2079 m/(s^2)	Andrew
+4	73 m^2	-0.081	guinea pig	Natural Language Processing	0.6675	badminton	301 mph	-525	402 m/(s^2)	Fabrice
+9	-960 m^2	-0.1564	dog	Technology and Information Management	0.9668	golf	864 mph	659	912 m/(s^2)	Michael
+5	1613 m^2	1.5304	ferret	Data Science	NULL	volleyball	113 mph	-686	1137 m/(s^2)	Andrew
+8	1391 m^2	0.9009	pig	Bioinformatics	1.4607	motor sports	604 mph	-265	-1619 m/(s^2)	Chris
+2	-936 m^2	0.2462	Rat	Bioengineering	1.2974	boxing	708 mph	899	-389 m/(s^2)	Eriq
+7	412 m^2	-0.8032	cat	Games and Playable Media	2.4869	soccer	1209 mph	1947	704 m/(s^2)	Sam
+0	-1486 m^2	0.5277	hamster	Applied Mathematics	0.6485	boxing	570 mph	1012	-71 m/(s^2)	Sam
+0	191 m^2	0.465	hamster	Applied Mathematics	-0.3475	boxing	772 mph	1011	-240 m/(s^2)	Sam
+7	1184 m^2	1.8223	cat	Games and Playable Media	1.2079	soccer	766 mph	260	1073 m/(s^2)	Lise
+6	-306 m^2	-0.9552	fish	Robotics Engineering	1.7916	running	531 mph	-674	1455 m/(s^2)	Vani
+0	726 m^2	0.4899	dog	Applied Mathematics	1.1234	boxing	890 mph	-330	-5 m/(s^2)	Sam
+0	442 m^2	1.5905	rat	Applied Mathematics	0.8772	boxing	731 mph	-43	-54 m/(s^2)	Sam
+7	1143 m^2	-0.3846	cat	Games and Playable Media	1.6099	soccer	798 mph	1806	2185 m/(s^2)	Lise
+6	-368 m^2	0.4471	fish	Robotics Engineering	0.9052	football	1225 mph	205	884 m/(s^2)	Vani
+0	-1941 m^2	0.0468	hamster	Applied Mathematics	2.0732	boxing	866 mph	1464	-209 m/(s^2)	Sam
+6	-1005 m^2	1.9404	fish	Robotics Engineering	1.211	running	-571 mph	834	-750 m/(s^2)	Vani
+8	635 m^2	1.5644	pig	Bioinformatics	-1.1565	tennis	966 mph	1380	1086 m/(s^2)	Chris
+6	626 m^2	-0.184	fish	Robotics Engineering	0.3301	football	1228 mph	377	-383 m/(s^2)	Sam
+1	2623 m^2	0.3966	rabbit	Computer Game Design	1.8192	baseball	2100 mph	41	1217 m/(s^2)	Inan
+0	N/A	-0.53	hamster	Applied Mathematics	-0.1138	boxing	1343 mph	1289	-361 m/(s^2)	Sam
+0	-769 m^2	1.8041	hamster	Applied Mathematics	2.2008	boxing	1780 mph	-514	-694 m/(s^2)	Sam
+8	437 m^2	0.7558	pig	Bioinformatics	-0.2221	volleyball	825 mph	-50	1269 m/(s^2)	Chris
+1	2400 m^2	0.0965	rabbit	Computer Game Design	0.4364	volleyball	1519 mph	442	-1482 m/(s^2)	Inan
+8	53 m^2	1.7748	pig	Statistics	2.6778	basketball	-19 mph	-296	-40 m/(s^2)	Chris
+9	-342 m^2	1.0152	pig	Computer Science, Technology and Information Management	-0.3164	golf	1305 mph	1923	497 m/(s^2)	Michael
+5	-131 m^2	-0.475	reptile	Biotechnology	0.0596	golf	-519 mph	1327	866 m/(s^2)	Chris
+8	1226 m^2	-0.6335	pig	Statistics	0.5437	motor sports	375 mph	528	1819 m/(s^2)	Chris
+5	99 m^2	-0.5715	ferret	Biotechnology	-1.1591	volleyball	65 mph	-766	2693 m/(s^2)	Andrew
+8	-981 m^2	-0.2657	pig	Statistics	n/a	motor sports	753 mph	820	428 m/(s^2)	Chris
+7	1838 m^2	-0.212	cat	Games and Playable Media	0.3684	soccer	295 mph	83	1278 m/(s^2)	Lise
+1	488 m^2	2.9068	rabbit	COMPUTER GAME DESIGN	0.4275	baseball	987 mph	-492	17 m/(s^2)	Tony
+4	322 m^2	2.0806	guinea pig	Natural Language Processing	-0.0098	badminton	-194 mph	-158	-207 m/(s^2)	Fabrice
+5	1721 m^2	0.9661	reptile	Data Science	0.0703	volleyball	276 mph	747	-181 m/(s^2)	andrew
+0	58 m^2	0.7989	hamster	Applied Mathematics	0.9535	boxing	940 mph	370	-46 m/(s^2)	Sam
+7	1134 m^2	1.0853	cat	Games and Playable Media	2.4733	soccer	508 mph	1677	988 m/(s^2)	Lise
+8	773 m^2	1.7559	pig	Bioinformatics	1.1703	motor sports	812 mph	462	-334 m/(s^2)	Chris
+0	-173 m^2	1.0409	cat	Applied Mathematics	0.7412	boxing	456 mph	-1644	-152 m/(s^2)	Sam
+6	171 m^2	0.1425	FISH	Robotics Engineering	0.453	running	1044 mph	397	399 m/(s^2)	Vani
+1	1412 m^2	1.2791	rabbit	Computer Game Design	1.1371	baseball	1024 mph	1936	2404 m/(s^2)	Chris
+6	626 m^2	0.1398	fish	Robotics Engineering	-0.6778	running	-590 mph	-135	-168 m/(s^2)	Vani
+4	455 m^2	0.5969	GUINEA PIG	Natural Language Processing	0.4502	badminton	582 mph	471	840 m/(s^2)	Fabrice
+2	-284 m^2	0.7982	rat	Human Computer Interaction	2.0362	basketball	295 mph	-1336	751 m/(s^2)	Eriq
+1	-563 m^2	1.5155	rabbit	Computer Game Design	0.9521	ice hockey	203 mph	915	754 m/(s^2)	Michael
+8	805 m^2	1.6527	pig	Bioinformatics	-0.0608	motor sports	-334 mph	-36	-872 m/(s^2)	Chris
+1	917 m^2	1.7147	rabbit	Applied Mathematics	-0.1497	ice hockey	1891 mph	81	-86 m/(s^2)	Inan
+2	235 m^2	-0.2662	rat	Bioengineering, Human Computer Interaction	0.0067	basketball	1065 mph	-2180	-507 m/(s^2)	Eriq
+9	893 m^2	-0.337	dog	Computer Engineering	0.8929	golf	657 mph	810	-1415 m/(s^2)	Michael
+6	953 m^2	-0.9461	pig	Robotics Engineering	0.7489	running	1278 mph	366	720 m/(s^2)	Eriq
+1	952 m^2	1.9269	rabbit	Computer Game Design	-0.9909	baseball	2275 mph	-1330	319 m/(s^2)	Inan
+0	None	0.3402	hamster	Applied Mathematics	2.166	boxing	735 mph	375	-729 m/(s^2)	Sam
+8	272 m^2	0.7829	pig	Bioinformatics	0.7768	golf	-508 mph	-317	1362 m/(s^2)	Chris
+9	775 m^2	-0.1261	dog	Computer Science	0.2982	golf	1079 mph	831	-1121 m/(s^2)	Michael
+6	-235 m^2	0.1075	fish	Robotics Engineering	0.4372	motor sports	1159 mph	231	12 m/(s^2)	Vani
+7	418 m^2	0.2284	cat	Games and Playable Media	1.3897	soccer	810 mph	-174	713 m/(s^2)	Lise
+4	1945 m^2	0.6758	guinea pig	Natural Language Processing	2.4989	badminton	1302 mph	635	-494 m/(s^2)	Fabrice
+2	1394 m^2	0.4592	rat	Bioengineering, Electrical Engineering	1.0118	basketball	1109 mph	518	844 m/(s^2)	ERIQ
+8	1434 m^2	0.0971	dog	bIOINFORMATICS	0.4833	motor sports	1053 mph	1736	236 m/(s^2)	Chris
+8	1227 m^2	0.1441	pig	Bioinformatics	0.2592	motor sports	737 mph	357	-322 m/(s^2)	Chris
+2	-845 m^2	1.2895	Rat	Human Computer Interaction, Electrical Engineering	0.7906	basketball	477 mph	343	772 m/(s^2)	Eriq
+1	1065 m^2	0.7743	rabbit	Computer Game Design	0.7566	ice hockey	1237 mph	1160	-1306 m/(s^2)	Inan
+0	-976 m^2	0.6294	hamster	Applied Mathematics	0.3995	boxing	1739 mph	1058	-884 m/(s^2)	Sam
+8	-517 m^2	-0.2496	pig	Statistics	-0.3491	motor sports	1293 mph	-466	-1059 m/(s^2)	Chris
+2	88 m^2	1.7044	rat	Human Computer Interaction, Electrical Engineering	0.3018	basketball	106 mph	-691	457 m/(s^2)	Eriq
+4	150 m^2	0.6236	guinea pig	Natural Language Processing	1.0	badminton	985 mph	818	493 m/(s^2)	Fabrice
+7	1490 m^2	0.0888	cat	Games and Playable Media	-0.3643	basketball	773 mph	805	221 m/(s^2)	Lise
+2	-619 m^2	2.1617	rat	Electrical Engineering	1.5004	motor sports	956 mph	-435	355 m/(s^2)	Eriq
+9	294 m^2	0.292	rat	Computer Engineering, Computer Science	0.1515	golf	348 mph	1220	439 m/(s^2)	Michael
+4	-767 m^2	0.4804	guinea pig	nATURAL lANGUAGE pROCESSING	2.2662	FOOTBALL	865 mph	-418	-414 m/(s^2)	Fabrice
+3	-1408 m^2	1.6487	fish	Computational Media	-1.7412	track & field	315 mph	1414	1039 m/(s^2)	Chris
+0	-358 m^2	1.7144	chicken	Applied Mathematics	0.7962	boxing	1661 mph	-799	611 m/(s^2)	Sam
+8	410 m^2	1.2852	pig	STATISTICS	0.9797	boxing	242 mph	338	-516 m/(s^2)	Chris
+4	792 m^2	0.1682	guinea pig	Natural Language Processing	0.5698	badminton	N/A	516	-1914 m/(s^2)	Fabrice
+8	1046 m^2	1.2309	pig	Bioinformatics	1.1317	motor sports	933 mph	-480	553 m/(s^2)	Sam
+0	945 m^2	1.1609	Hamster	Applied Mathematics	0.3382	boxing	-49 mph	140	1408 m/(s^2)	Tony
+4	603 m^2	N/A	ferret	Natural Language Processing	0.3855	badminton	-600 mph	1003	-674 m/(s^2)	Fabrice
+5	59 m^2	-0.0979	reptile	Data Science	-0.229	volleyball	-715 mph	-146	-225 m/(s^2)	Andrew
+7	2843 m^2	0.804	cat	Games and Playable Media	0.7478	soccer	443 mph	-769	2029 m/(s^2)	Lise
+1	238 m^2	1.0926	rabbit	Computer Game Design	1.302	ice hockey	877 mph	-191	-541 m/(s^2)	Inan
+9	543 m^2	0.671	chicken	Computer Science	-0.366	golf	-237 mph	1074	-2170 m/(s^2)	Michael
+1	-606 m^2	1.2741	rabbit	Computer Game Design	0.6365	baseball	692 mph	-270	1183 m/(s^2)	Vani
+4	245 m^2	1.2408	guinea pig	Natural Language Processing	-0.198	badminton	2130 mph	-96	653 m/(s^2)	Fabrice
+4	75 m^2	0.6791	guinea pig	Natural Language Processing	2.3403	badminton	221 mph	23	-772 m/(s^2)	Fabrice
+7	-506 m^2	0.2019	cat	Games and Playable Media	-0.5301	soccer	1124 mph	-2123		Lise
+0	981 m^2	0.4589	hamster	Applied Mathematics	0.612	boxing	698 mph	-203	261 m/(s^2)	Fabrice
+6	-17 m^2	n/a	hamster	Robotics Engineering	2.2704	boxing	976 mph	2087	-106 m/(s^2)	Vani
+7	1600 m^2	1.4485	cat	Games and Playable Media	0.6771	soccer	1887 mph	393	1635 m/(s^2)	Lise
+0	1206 m^2	1.6064	hamster	Applied Mathematics	1.4812	boxing	1213 mph	-1080	1341 m/(s^2)	Sam
+1	606 m^2	-0.3164	fish	Computer Game Design	2.3726	baseball	529 mph	1125	398 m/(s^2)	Inan
+2	313 m^2	1.7686	rat	Human Computer Interaction	0.3188	basketball	-63 mph	988	689 m/(s^2)	eriq
+3	1264 m^2	1.5717	bird	Computational Media	1.086	tennis	868 mph	1638	1508 m/(s^2)	Tony
+7	2132 m^2	-0.3875	cat	Games and Playable Media	1.9922	track & field	310 mph	-780	720 m/(s^2)	Lise
+6	-91 m^2	0.4452	fish	Robotics Engineering	1.6169	running	766 mph	1158	-817 m/(s^2)	Vani
+7	758 m^2	0.9178	cat	Games and Playable Media	1.6231	track & field	-867 mph	2002	417 m/(s^2)	Lise
+9	242 m^2	0.9838	pig	Computer Science	0.7413	Golf	1931 mph	-1286	491 m/(s^2)	Michael
+8	820 m^2	1.1426	pig	Bioinformatics	1.0892	motor sports	997 mph	1177	-791 m/(s^2)	Chris
+4	1382 m^2	-0.3901	guinea pig	Natural Language Processing	-0.0957	badminton	722 mph	60	-1220 m/(s^2)	Fabrice
+1	1770 m^2	0.9789	rabbit	Computer Game Design	1.0724	Baseball	2025 mph	-172	-625 m/(s^2)	Inan
+0	2172 m^2	0.2166	hamster	Applied Mathematics	0.8092	boxing	780 mph	907	466 m/(s^2)	Sam
+6	-1347 m^2	-0.2665	fish	Robotics Engineering	1.5216	football	1551 mph	-371	844 m/(s^2)	Vani
+9	1043 m^2	0.557	chicken	Computer Engineering	-0.034	golf	1109 mph	-1036	997 m/(s^2)	Michael
+8	102 m^2	-0.2652	pig	Bioinformatics	0.7008	TENNIS	767 mph	-63	234 m/(s^2)	Chris
+8	-273 m^2	1.0116	pig	Statistics	1.5532	motor sports	977 mph	177	-1099 m/(s^2)	Chris
+3	1635 m^2	0.2047	bird	Computational Media	-0.5032	TENNIS	633 mph	126	19 m/(s^2)	Tony
+8	-470 m^2	0.9876	fish	Statistics	0.9715	golf	424 mph	-1357	989 m/(s^2)	Chris
+4	-950 m^2	0.0066	guinea pig	Natural Language Processing	1.0614	badminton	167 mph	-695	-792 m/(s^2)	Sam
+5	1165 m^2	1.4929	reptile	Biotechnology	-0.9815	volleyball	-568 mph	685	286 m/(s^2)	Andrew
+3	82 m^2	0.5589	rabbit	Computational Media	0.0912	track & field	254 mph	334	729 m/(s^2)	Reilly
+3	439 m^2	0.168	bird	Computational Media	1.881	NULL	589 mph	1420	-332 m/(s^2)	Tony
+5	13 m^2	0.2131	ferret	Data Science	-0.6737	volleyball	-384 mph	-201	-27 m/(s^2)	Andrew
+9	-317 m^2	0.3009	dog	Computer Engineering	-0.6825	golf	1621 mph	40	271 m/(s^2)	Michael
+2	-851 m^2	-0.6125	rat	Electrical Engineering, Bioengineering	-0.4511	basketball	151 mph	1585	902 m/(s^2)	Eriq
+9	1458 m^2	1.6473	dog	Computer Engineering	0.7047	golf	-660 mph	267	255 m/(s^2)	Fabrice
+5	1274 m^2	0.3256	reptile	Biotechnology	-0.1253	ice hockey	289 mph	717	-1019 m/(s^2)	Andrew
+2	393 m^2	NULL	rat	Bioengineering	0.4807	basketball	-263 mph	175	605 m/(s^2)	Eriq
+3	243 m^2	-0.1501	dog	Computational Media	0.9358	track & field	186 mph	-470	737 m/(s^2)	Tony
+4	453 m^2	0.0994	guinea pig	Natural Language Processing	0.8515	badminton	199 mph	1634	-678 m/(s^2)	Fabrice
+8	1682 m^2	0.5021	pig	Bioinformatics	0.1423	Motor Sports	496 mph	1057	610 m/(s^2)	Chris
+6	-1632 m^2	-0.7901	fish	Robotics Engineering	1.1377	football	772 mph	-114		Vani
+4	242 m^2	-0.0299	guinea pig	Natural Language Processing	3.0327	badminton	823 mph	835	544 m/(s^2)	Fabrice
+9	-169 m^2	1.1601	chicken	Computer Engineering, Technology and Information Management	2.6545	golf	514 mph	127	517 m/(s^2)	Michael
+5	1829 m^2	1.7047	ferret	Data Science	-1.148	VOLLEYBALL	98 mph	426	909 m/(s^2)	Andrew
+5	1064 m^2	1.0203	reptile	Biotechnology	0.4524	volleyball	1688 mph	1326	988 m/(s^2)	Andrew
+3	-1104 m^2	0.6883	pig	Computational Media	-0.1003	track & field	624 mph	1883	-395 m/(s^2)	Reilly
+1	-1510 m^2	1.5097	bird	Electrical Engineering	0.9569	baseball	2147 mph	765	267 m/(s^2)	Inan
+1	1205 m^2	1.5172	rabbit	Computer Game Design	2.0922	ice hockey	783 mph	-1320	841 m/(s^2)	Chris
+0	-104 m^2	0.3039	hamster	Applied Mathematics	2.44	boxing	707 mph	-1108	-731 m/(s^2)	Sam
+1	-1987 m^2	1.769	rabbit	Computer Game Design	0.0733	baseball	1026 mph	1674	1926 m/(s^2)	Inan
+3	1379 m^2	-1.1894	BIRD	Computational Media	0.0058	football	21 mph	-721	1650 m/(s^2)	Tony
+3	1641 m^2	1.1127	bird	Computational Media	-0.2197	tennis	-363 mph	287	765 m/(s^2)	Tony
+0	-57 m^2		hamster	Applied Mathematics	0.3881	boxing	86 mph	1396	-320 m/(s^2)	Sam
+5	704 m^2	-0.3209	reptile	Biotechnology	0.8761	volleyball	35 mph	51	-1190 m/(s^2)	Andrew
+9	-709 m^2	1.6095	dog	n/a	0.8743	golf	223 mph	336	-773 m/(s^2)	NULL
+1	1692 m^2	-0.1298	hamster	COMPUTER GAME DESIGN	0.2286	MOTOR SPORTS	634 mph	-178	1156 m/(s^2)	Inan
+2	-81 m^2	1.1951	rat	Human Computer Interaction, Electrical Engineering	-0.3891	basketball	659 mph	-208	-451 m/(s^2)	Chris
+0	591 m^2	2.7927	hamster	Applied Mathematics	0.9355	boxing	1291 mph	-370	24 m/(s^2)	Sam
+8	644 m^2	0.4831	pig	Bioinformatics	0.3556	motor sports	632 mph	1189	323 m/(s^2)	Chris
+9	-1612 m^2	-0.108	Dog	Technology and Information Management, Computer Engineering	-0.6133	golf	-52 mph	571	1524 m/(s^2)	Michael
+1	783 m^2	0.7017	rabbit	Computer Game Design	1.3003	ice hockey	812 mph	1389	1346 m/(s^2)	Inan
+9	-214 m^2	-0.1759	dog	Computer Engineering	0.252	golf	706 mph	102	-773 m/(s^2)	Michael
+5	3004 m^2	0.8194	reptile	Biotechnology	0.6622	volleyball	470 mph	1349	29 m/(s^2)	Andrew
+2	-642 m^2	1.1089	rat	Human Computer Interaction, Electrical Engineering	0.1791	basketball	1366 mph	-437	-441 m/(s^2)	Eriq
+8	769 m^2	0.9421	pig	Bioinformatics	-0.3555	motor sports	470 mph	1286	59 m/(s^2)	Chris
+2	-834 m^2	0.246	RAT	Electrical Engineering	1.1754	basketball	626 mph	-14	886 m/(s^2)	Eriq
+5	-213 m^2	2.1314	rat	Biotechnology	-0.8645	VOLLEYBALL	1113 mph	-244	-889 m/(s^2)	Sam
+7	401 m^2	1.0863	cat	Games and Playable Media	1.3521	boxing	392 mph	1781	-33 m/(s^2)	Lise
+6	347 m^2	0.993	fish	Robotics Engineering	1.1864	Running	1110 mph	769	-270 m/(s^2)	VANI
+8	583 m^2	-0.4802	pig	Bioinformatics	-0.1365	motor sports	1696 mph	963	-869 m/(s^2)	Chris
+3	1655 m^2	0.4569	bird	Computational Media	-0.931	golf	223 mph	-1234	1932 m/(s^2)	Reilly
+0	709 m^2	2.6762	hamster	Applied Mathematics	1.6182	boxing	780 mph	69	-910 m/(s^2)	Sam
+8	537 m^2	2.5163	pig	Bioinformatics	0.0457	motor sports	1293 mph	199	1640 m/(s^2)	Chris
+4	562 m^2	-1.1699	guinea pig	Natural Language Processing	2.0209	badminton	498 mph	18	208 m/(s^2)	Fabrice
+5	-79 m^2	1.6	reptile	Biotechnology	-0.4637	volleyball	102 mph	-674	-868 m/(s^2)	Andrew
+8	1195 m^2	1.3101	pig	Bioinformatics	0.2614	MOTOR SPORTS	1902 mph	183	-1182 m/(s^2)	Chris
+9	-137 m^2	0.5517	rabbit	Computer Science, Computer Engineering	-0.1794	golf	258 mph	-578	-797 m/(s^2)	Michael
+0	1526 m^2	-1.0836	hamster	Applied Mathematics	1.0178	boxing	1139 mph	330	984 m/(s^2)	Sam
+5	2321 m^2	1.6334	reptile	Biotechnology	0.2285	volleyball	-10 mph	802	-993 m/(s^2)	Andrew
+5	1572 m^2	0.8993	ferret	Data Science	1.6818	volleyball	1148 mph	263	-269 m/(s^2)	Vani
+6	74 m^2	1.1628	fish	Robotics Engineering	1.0365	football	-149 mph	1348	1045 m/(s^2)	
+7	817 m^2	-0.2131	rat	Games and Playable Media	0.239	soccer	351 mph	1942	-281 m/(s^2)	LISE
+6	232 m^2	1.602	fish	Robotics Engineering	1.275	football	605 mph	213	800 m/(s^2)	Vani
+3	2089 m^2	0.9223	bird	Computational Media	-0.2142	tennis	824 mph	652	1142 m/(s^2)	Tony
+3	-190 m^2	2.0224	bird	Computational Media	1.0144	tennis	150 mph	1481	613 m/(s^2)	Fabrice
+6	33 m^2	2.0859	fish	Robotics Engineering	1.7754	running	200 mph	-465	1081 m/(s^2)	Vani
